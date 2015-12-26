@@ -1,0 +1,6011 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en">
+
+<head>
+  
+  <meta name="viewport" content="width=1000">
+
+  
+  <meta name="layout" content="Event Search" />
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="imagetoolbar" content="no" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  
+  
+  
+  <link rel="stylesheet" type="text/css" href="/foundation/styles/reset.css?cb=c367b969cff943e64e7972360859ab2c" />
+
+  
+  
+    <link rel="stylesheet" type="text/css" href="/styles/defaults.css?cb=c367b969cff943e64e7972360859ab2c" />
+    <link rel="stylesheet" type="text/css" href="/styles/components.css?cb=c367b969cff943e64e7972360859ab2c" />
+    <link rel="stylesheet" type="text/css" href="/styles/publication.css?cb=c367b969cff943e64e7972360859ab2c" />
+  
+
+  <style type="text/css">
+    /* Foundation Convenience Styles */
+    /* For programmatic usage only! */
+    .clear { clear: both }
+    .hidden { display: none }
+    .lower { text-transform: lowercase }
+    .upper { text-transform: uppercase }
+
+    /* Foundation Conditional Display Classes */
+    .briefOnly     {  }    /* override in components.css */
+    .longOnly      {  }    /* override in components.css */
+  </style>
+
+  
+    <link rel="stylesheet" type="text/css" href="/foundation/grids/olivaw-5-zone.css" />
+  
+
+  <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" href="/styles/ie6.css" />
+  <![endif]-->
+  <!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="/styles/ie7.css" />
+  <![endif]-->
+  <!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" href="/styles/ie8.css" />
+  <![endif]-->
+  <!--[if gte IE 9]>
+      <link rel="stylesheet" type="text/css" href="/styles/ie9-plus.css">
+  <![endif]-->
+
+  <link rel="stylesheet" href="/styles/print.css" type="text/css" media="print" />
+
+  
+  
+    
+    
+      <link rel="alternate" type="application/rss+xml" title="Gambit RSS: Whole Site" href="http://www.bestofneworleans.com/gambit/Rss.xml" />
+    
+    
+    
+
+    
+    
+      <link rel="alternate" type="application/rss+xml" title="Gambit RSS: Comments on Gambit" href="http://www.bestofneworleans.com/gambit/Rss.xml?id=comments" />
+    
+  
+
+  
+  <script src="/foundation/scripts/core-public.js?cb=c6bb9720c0"></script>
+
+  
+  <link rel="stylesheet" href="/foundation/styles/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
+  <script>
+    Foundation.documentReady.then(function () {
+        jQuery("a.zoomable").fancybox({"type": "image", "titlePosition": "over"});
+    });
+  </script>
+
+  
+  <script>
+    // Smooth scrolling to anchors on the same page.
+    setupGlide();
+    
+    // Modify user's own profile links to go to correct URL.
+    fixupProfileLinks("http:\/\/www.bestofneworleans.com\/gambit\/Profile", "http:\/\/posting.bestofneworleans.com\/gambit\/MyProfile");
+  </script>
+  
+  
+  
+
+  
+  
+  
+    
+  
+
+  
+  <meta name="google-site-verification" content="wZ12XzoN3VBPA2ChMCshEK_sW_ecSS-6Eg51FMtOAIQ" />
+<meta name="verify-v1" content="F4ui5qH2N/F8F4+vzSlIGjV4rDiYgbE2WSzkzRxCaZI=" />
+<meta name="google-site-verification" content="23k1zwkDIMd1UKjq8-kUDkcSQg4_sTSDdyVnkMUlwDM" />
+<meta name="alexaVerifyID" content="0d4oamKzJaGuN9KVWfhKAHhi9G8" />
+
+<!--BEGIN FORM VALIDATION CODE-->
+<script type="text/javascript">
+function validate_required(field,alerttxt)
+{
+with (field)
+{
+if (value==null||value=="")
+  {alert(alerttxt);return false;}
+else {return true}
+}
+}
+
+function validate_form(thisform)
+{
+with (thisform)
+{
+if (validate_required(email,"Email must be filled out!")==false)
+  {email.focus();return false;}
+}
+}
+</script>
+<!--END FORM VALIDATION CODE-->
+
+
+<!-- GOOGLE ADS code -->
+
+  
+
+  <script type='text/javascript'>
+            (function() {
+              var useSSL = 'https:' == document.location.protocol;
+              var src = (useSSL ? 'https:' : 'http:') +       '//www.googletagservices.com/tag/js/gpt.js';
+              document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+            })();
+        </script>
+        <script type='text/javascript'>
+          Foundation = Foundation || {};
+          Foundation.Ad = Foundation.Ad || {};
+          Foundation.Ad.slots = Foundation.Ad.slots || {};
+                Foundation.Ad.slots['div-gpt-ad-background_wrap'] = googletag.defineSlot('/1051170/background_wrap', [1380, 800], 'div-gpt-ad-background_wrap').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-center_stage_tile'] = googletag.defineSlot('/1051170/Center_Stage-Tile', [160, 200], 'div-gpt-ad-center_stage_tile').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-leaderboard1'] = googletag.defineSlot('/1051170/Leaderboard1', [728, 90], 'div-gpt-ad-leaderboard1').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-spotlight'] = googletag.defineSlot('/1051170/Spotlight', [225, 90], 'div-gpt-ad-spotlight').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-leaderboard2_footer'] = googletag.defineSlot('/1051170/Leaderboard2-footer', [728, 90], 'div-gpt-ad-leaderboard2_footer').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-pop_under'] = googletag.defineSlot('/1051170/pop_under', [100, 30], 'div-gpt-ad-pop_under').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-rectangle'] = googletag.defineSlot('/1051170/Rectangle', [300, 250], 'div-gpt-ad-rectangle').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-rectangle_bottom'] = googletag.defineSlot('/1051170/Rectangle_bottom', [300, 250], 'div-gpt-ad-rectangle_bottom').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-skyscraper'] = googletag.defineSlot('/1051170/Skyscraper', [160, 600], 'div-gpt-ad-skyscraper').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-skyscraper2'] = googletag.defineSlot('/1051170/Skyscraper2', [160, 600], 'div-gpt-ad-skyscraper2').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-skyscraper3_blog'] = googletag.defineSlot('/1051170/Skyscraper3_blog', [160, 600], 'div-gpt-ad-skyscraper3_blog').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-skyscraper4_blog'] = googletag.defineSlot('/1051170/Skyscraper4_blog', [160, 600], 'div-gpt-ad-skyscraper4_blog').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-sky_blog_special'] = googletag.defineSlot('/1051170/sky_blog-special', [160, 600], 'div-gpt-ad-sky_blog_special').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-scoreboard'] = googletag.defineSlot('/1051170/Scoreboard', [300, 600], 'div-gpt-ad-scoreboard').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-scoreboard2'] = googletag.defineSlot('/1051170/Scoreboard2', [300, 600], 'div-gpt-ad-scoreboard2').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-scoreboard3'] = googletag.defineSlot('/1051170/Scoreboard3', [300, 600], 'div-gpt-ad-scoreboard3').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-tile1'] = googletag.defineSlot('/1051170/Tile1', [160, 200], 'div-gpt-ad-tile1').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-tile10'] = googletag.defineSlot('/1051170/Tile10', [160, 200], 'div-gpt-ad-tile10').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-tile11'] = googletag.defineSlot('/1051170/Tile11', [160, 200], 'div-gpt-ad-tile11').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-tile12'] = googletag.defineSlot('/1051170/Tile12', [160, 200], 'div-gpt-ad-tile12').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-tile13'] = googletag.defineSlot('/1051170/Tile13', [160, 200], 'div-gpt-ad-tile13').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-tile14'] = googletag.defineSlot('/1051170/Tile14', [160, 200], 'div-gpt-ad-tile14').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-tile15'] = googletag.defineSlot('/1051170/Tile15', [160, 200], 'div-gpt-ad-tile15').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-tile2'] = googletag.defineSlot('/1051170/Tile2', [160, 200], 'div-gpt-ad-tile2').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-tile3'] = googletag.defineSlot('/1051170/Tile3', [160, 200], 'div-gpt-ad-tile3').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-tile4'] = googletag.defineSlot('/1051170/Tile4', [160, 200], 'div-gpt-ad-tile4').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-tile5'] = googletag.defineSlot('/1051170/Tile5', [160, 200], 'div-gpt-ad-tile5').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-tile6'] = googletag.defineSlot('/1051170/Tile6', [160, 200], 'div-gpt-ad-tile6').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-tile7'] = googletag.defineSlot('/1051170/Tile7', [160, 200], 'div-gpt-ad-tile7').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-tile8'] = googletag.defineSlot('/1051170/Tile8', [160, 200], 'div-gpt-ad-tile8').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-tile9'] = googletag.defineSlot('/1051170/Tile9', [160, 200], 'div-gpt-ad-tile9').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-voodoo_leader'] = googletag.defineSlot('/1051170/Voodoo_leader', [728, 90], 'div-gpt-ad-voodoo_leader').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-voodoo_sky'] = googletag.defineSlot('/1051170/Voodoo_sky', [160, 600], 'div-gpt-ad-voodoo_sky').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-voodoo_sky2'] = googletag.defineSlot('/1051170/Voodoo_sky2', [160, 600], 'div-gpt-ad-voodoo_sky2').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-pencilbar'] = googletag.defineSlot('/1051170/PencilBar', [945, 35], 'div-gpt-ad-pencilbar').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-ent_rect'] = googletag.defineSlot('/1051170/Ent_rect', [300, 250], 'div-gpt-ad-ent_rect').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-ent_lead'] = googletag.defineSlot('/1051170/Ent_lead', [728, 90], 'div-gpt-ad-ent_lead').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-ent_sky'] = googletag.defineSlot('/1051170/Ent_sky', [160, 600], 'div-gpt-ad-ent_sky').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-film_rectangle'] = googletag.defineSlot('/1051170/FILM_Rectangle', [300, 250], 'div-gpt-ad-film_rectangle').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-film_leaderboard'] = googletag.defineSlot('/1051170/FILM_Leaderboard', [728, 90], 'div-gpt-ad-film_leaderboard').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-film_skyscraper'] = googletag.defineSlot('/1051170/FILM_Skyscraper', [160, 600], 'div-gpt-ad-film_skyscraper').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-mobile'] = googletag.defineSlot('/1051170/Mobile', [100, 30], 'div-gpt-ad-mobile').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-mobilefilm'] = googletag.defineSlot('/1051170/MobileFilm', [100, 30], 'div-gpt-ad-mobilefilm').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-mobilerect'] = googletag.defineSlot('/1051170/MobileRect', [300, 250], 'div-gpt-ad-mobilerect').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-food_drink_leader'] = googletag.defineSlot('/1051170/Food-Drink_leader', [728, 90], 'div-gpt-ad-food_drink_leader').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-food_drink_rectangle'] = googletag.defineSlot('/1051170/Food-Drink_rectangle', [300, 250], 'div-gpt-ad-food_drink_rectangle').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-food_drink_sky'] = googletag.defineSlot('/1051170/Food-Drink_Sky', [160, 600], 'div-gpt-ad-food_drink_sky').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-music_lead'] = googletag.defineSlot('/1051170/Music_lead', [728, 90], 'div-gpt-ad-music_lead').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-music_rect'] = googletag.defineSlot('/1051170/Music_rect', [300, 250], 'div-gpt-ad-music_rect').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-music_sky'] = googletag.defineSlot('/1051170/Music_sky', [160, 600], 'div-gpt-ad-music_sky').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-ballot_rectangle_bars_ent'] = googletag.defineSlot('/1051170/Ballot_rectangle-bars_ent', [300, 250], 'div-gpt-ad-ballot_rectangle_bars_ent').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-ballot_rectangle_food'] = googletag.defineSlot('/1051170/Ballot_rectangle-food', [300, 250], 'div-gpt-ad-ballot_rectangle_food').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-ballot_rectangle_goods_serv'] = googletag.defineSlot('/1051170/Ballot_rectangle-goods_serv', [300, 250], 'div-gpt-ad-ballot_rectangle_goods_serv').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-ballot_rectangle_local'] = googletag.defineSlot('/1051170/Ballot_rectangle-local', [300, 250], 'div-gpt-ad-ballot_rectangle_local').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-ballot_rectangle_media'] = googletag.defineSlot('/1051170/Ballot_rectangle-media', [300, 250], 'div-gpt-ad-ballot_rectangle_media').addService(googletag.pubads());
+                Foundation.Ad.slots['div-gpt-ad-ballot_rectangle_politics'] = googletag.defineSlot('/1051170/Ballot_rectangle-politics', [300, 250], 'div-gpt-ad-ballot_rectangle_politics').addService(googletag.pubads());
+          googletag.pubads().setTargeting('template', 'EventSearch');
+            googletag.pubads().setTargeting('media', 'screen');
+            googletag.pubads().setTargeting('nh_group', 'orleans');
+            googletag.pubads().setTargeting('e_section', 'events');
+            googletag.pubads().enableSyncRendering();
+          googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        </script>
+
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<!-- Begin Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Lato:400,700|Titillium+Web:400,700|Montserrat:400,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/styles/fonts/montserrat/stylesheet.css" type="text/css" charset="utf-8" />
+<!-- End Google Fonts -->
+
+<style type="text/css">
+.expandable
+{
+   position:absolute;
+   left: 0;
+   top: 0;
+   width: 468;
+   height: 60;
+   background-image: url("banner2.gif");
+   z-index:2;
+   visibility:visible;
+}
+</style>
+  
+  
+  
+  
+
+  
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <meta name="title" content="Events Calendar | Events | Calendar | Gambit - New Orleans News and Entertainment" />
+  <meta name="description" content="Get the latest New Orleans news, politics, entertainment, music, restaurants and shopping information provided by Gambit newspaper." />
+  <meta name="keywords" content="gambit, gambit weekly, new orleans, french quarter, mardi gras, jazz fest, saints, metairie,clancy dubos,kevin allman, mitch landrieu" />
+  <title>Events Calendar | Events | Calendar | Gambit - New Orleans News and Entertainment</title>
+
+  
+  
+  <meta name="news_keywords" content="gambit, gambit weekly, new orleans, french quarter, mardi gras, jazz fest, saints, metairie, clancy dubos, kevin allman" />
+
+  
+  
+    
+  
+  
+    <link rel="image_src" href="http://www.bestofneworleans.com/binary/a494/adminIcon_gambit.jpg" />
+    <meta name="thumbnail" content="http://www.bestofneworleans.com/binary/a494/adminIcon_gambit.jpg" />
+  
+
+  
+
+  
+    
+      <meta property="og:url" content="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922" />
+    
+  
+
+  
+    <meta property="fb:app_id" content="258170620866529" />
+  
+
+  
+  <meta property="og:site_name" content="Gambit" />
+  <meta property="og:title" content="Events Calendar" />
+ 
+  
+    <meta property="og:image" content="http://www.bestofneworleans.com/binary/a494/adminIcon_gambit.jpg" />
+  
+
+  
+  
+    <meta property="og:description" content="Get the latest New Orleans news, politics, entertainment, music, restaurants and shopping information provided by Gambit newspaper." />
+  
+
+  
+  
+
+    
+  
+  
+    <meta property="og:type" content="website" />
+  
+
+  
+  
+  <!--
+    <PageMap>
+      <DataObject type="foundation">
+        <Attribute name="oid"></Attribute>
+        <Attribute name="class"></Attribute>
+        <Attribute name="lastmodified"></Attribute>
+        <Attribute name="creationdate"></Attribute>
+      </DataObject>
+
+      
+    </PageMap>
+  -->
+
+  
+  
+</head>
+
+
+
+
+
+  <body id="EventSearch" class="EventSearch Olivaw5Zone SearchPage">
+
+
+
+<div id="fb-root"></div>
+
+
+  <script>
+    (function () {
+        var app = new Foundation.Facebook.Application();
+        app.receiveAuthNotifications();
+        app.receiveLikeNotifications();
+    })();
+  </script>
+    
+
+<!-- Leader -->
+<div id="gridLeader">
+  
+</div><!-- end gridLeader -->
+
+<div id="gridClamp">
+
+  <!-- Header -->
+  <div id="gridHeader">
+    
+<!-- BEGIN Google Universal Analytics snippet. -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3956718-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- END Google Universal Analytics snippet. -->
+
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+    
+      <div id="MobileDetect" class="GlobalHeader EventSearch " style="display:none">
+        Switch to the <a href="http://m.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922" rel="nofollow alternate" media="handheld">mobile version</a> of this page.
+      </div>
+    
+
+    <script>
+      new Foundation.MobileDetectComponent("MobileDetect", true);
+    </script>
+  
+
+<div class="GlobalHeader EventSearch Ad" id="LeaderboardnPromo">
+
+  <div class="leaderboardHeader">
+    <!-- Ent_lead -->
+          <div id="div-gpt-ad-ent_lead" style="">
+            <script type='text/javascript'>
+                googletag.display('div-gpt-ad-ent_lead');
+            </script>
+          </div>
+  </div>
+
+  <div class="minibannerAd">
+    <!-- Spotlight -->
+          <div id="div-gpt-ad-spotlight" style="">
+            <script type='text/javascript'>
+                googletag.display('div-gpt-ad-spotlight');
+            </script>
+          </div>
+  </div>
+
+</div>
+
+<div id="SearchLogin" class="GlobalHeader EventSearch ">
+
+  
+
+  
+  <ul data-view="loggedin" style="display:none">
+    <li><strong data-label="username">Username</strong> / </li>
+    <li><a href="http://posting.bestofneworleans.com/gambit/MyProfile">View Profile</a> / </li>
+    <li><a href="http://posting.bestofneworleans.com/gambit/Profile/MySettings">Edit Profile</a> / </li>
+    <li><a href="http://www.bestofneworleans.com/gambit/Logout">Log Out</a></li>
+  </ul>
+
+  <ul data-view="loggedout" style="display:none">
+    <li><a href="#LogIn">Log in</a> / </li>
+    <li><a href="#CreateAccount">Create Account</a></li>
+  </ul>
+
+  
+    <script>
+      new Foundation.LoginRequiredComponent("SearchLogin");
+    </script>
+  
+
+
+  
+
+  
+    
+    <form class="prepTextForm" id="searchbox_018011518420473354465:t82dunowuwc" action="http://www.bestofneworleans.com/gambit/ArticleArchives" style="margin-top: 1em;">
+      
+      <label for="q" style="display:block; font-size:10px;">
+        SEARCH GAMBIT SITE
+      </label>
+      <input type="text" class="text" name="keywords" size="25" />
+      <input type="submit" class="searchButton" name="sa" value="GO" />
+    </form>
+  
+</div>
+
+<!-- searchLogin -->
+
+
+
+
+
+
+       
+
+<div id="HeaderLogo" class="GlobalHeader EventSearch ">
+  <div id="logo"><a href="/gambit/Home" Title="Gambit Weekly - New Orleans"><img src="/binary/19b3/new_logo151117.jpg" 
+                                  width="430" 
+                                  height="108" 
+                                  border="0" 
+                                  alt="Gambit Weekly - New Orleans"></a></div>
+</div>
+
+
+
+    <div id="SocialLinks" class="GlobalHeader EventSearch ">
+  
+  
+	
+  <a href="/gambit/best-of-new-orleans-2015/Content?oid=2744559" target="_self">
+    <img src="http://media2.fdncms.com/gambit/imager/best-of-new-orleans-icon/u/original/2461204/bono-20x20.jpg" height="20" width="20" alt="Best of New Orleans Icon" border="0" />
+  </a>  		
+ 	
+  
+
+  
+	
+  <a href="http://twitter.com/The_Gambit" target="_blank">
+    <img src="http://media1.fdncms.com/gambit/imager/twitter/u/original/1330721/twitter.png" height="24" width="24" alt="Twitter" border="0" />
+  </a>  		
+ 	
+  
+
+  
+	
+  <a href="http://www.facebook.com/GambitNewOrleans" target="_blank">
+    <img src="http://media2.fdncms.com/gambit/imager/facebook/u/original/1330719/facebook.png" height="24" width="24" alt="Facebook" border="0" />
+  </a>  		
+ 	
+  
+
+  
+	
+  <a href="/gambit/syndication" target="_blank">
+    <img src="http://media1.fdncms.com/gambit/imager/rss/u/original/1330867/rss.png" height="24" width="24" alt="RSS" border="0" />
+  </a>  		
+ 	
+  
+
+    </div>
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div id="NavigationHorizontal" class="GlobalHeader EventSearch ">
+  
+    
+    
+        <ul id="mainNav">
+      
+      
+
+      
+
+      
+
+      
+
+      <li class="first" id="NavItem_newsviews">
+        <a href="http://www.bestofneworleans.com/gambit/news/Section?oid=1222774" target="_self" class="subnav_link" id="SNAVL_newsviews">News</a>
+      </li>
+      
+    
+      
+
+      
+
+      
+
+      
+
+      <li class="" id="NavItem_ArtsCultureTOC">
+        <a href="http://www.bestofneworleans.com/gambit/ArtsCultureTOC/Page" target="_self" class="subnav_link" id="SNAVL_ArtsCultureTOC">Events</a>
+      </li>
+      
+    
+      
+
+      
+
+      
+
+      
+
+      <li class="" id="NavItem_Music">
+        <a href="http://www.bestofneworleans.com/gambit/music/Section?oid=1222776" target="_self" class="subnav_link" id="SNAVL_Music">Music</a>
+      </li>
+      
+    
+      
+
+      
+
+      
+
+      
+
+      <li class="" id="NavItem_Film">
+        <a href="http://www.bestofneworleans.com/gambit/film/Section?oid=1222778" target="_self" class="subnav_link" id="SNAVL_Film">Film</a>
+      </li>
+      
+    
+      
+
+      
+
+      
+
+      
+
+      <li class="" id="NavItem_FoodDrink">
+        <a href="http://www.bestofneworleans.com/gambit/food-and-drink/Section?oid=1222777" target="_self" class="subnav_link" id="SNAVL_FoodDrink">Food &amp; Drink</a>
+      </li>
+      
+    
+      
+
+      
+
+      
+
+      
+
+      <li class="" id="NavItem_healthyliving">
+        <a href="http://www.bestofneworleans.com/gambit/special-sections/Section?oid=1222788" target="_self" class="subnav_link" id="SNAVL_healthyliving">Living</a>
+      </li>
+      
+    
+      
+
+      
+
+      
+
+      
+
+      <li class="" id="NavItem_Shopping">
+        <a href="http://www.bestofneworleans.com/gambit/shopping/Section?oid=1222782" target="_self" class="subnav_link" id="SNAVL_Shopping">Shopping</a>
+      </li>
+      
+    
+      
+
+      
+
+      
+
+      
+
+      <li class="" id="NavItem_Classifieds">
+        <a href="http://classifieds.bestofneworleans.com/" target="_blank" class="subnav_link" id="SNAVL_Classifieds">Classifieds</a>
+      </li>
+      
+    
+      
+
+      
+
+      
+
+      
+
+      <li class="" id="NavItem_Notices">
+        <a href="http://classifieds.bestofneworleans.com/neworleans/announcements/search" target="_self" class="subnav_link" id="SNAVL_Notices">Notices</a>
+      </li>
+      
+    
+      
+
+      
+
+      
+
+      
+
+      <li class="last" id="NavItem_Win">
+        <a href="http://www.bestofneworleans.com/gambit/ContestsAndGiveaways/Page" target="_self" class="subnav_link" id="SNAVL_Win">Win</a>
+      </li>
+      
+    
+        </ul>
+      
+
+    
+      
+      
+        
+          <h3 class="hidden">Browse News</h3>
+          <ul class="subnav_content" id="SNAV_newsviews" style="display:none;">
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/CurrentIssueOfGambit/Page" target="_blank" title="">Digital Edition of Gambit</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/the-count/Category?oid=2812594" target="_self" title="">The Count</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/what-desaix/Category?oid=2812582" target="_self" title="">What Desaix</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/news/Section?oid=1222774" target="_self" title="">News Home</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/blogs/blogofneworleans/" target="_self" title="">Blog of New Orleans</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/columns/Category?oid=1222799" target="_self" title="">Clancy DuBos</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/columns/Category?oid=1222790" target="_self" title="">Blake Pontchartrain</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/news/Category?oid=1222793" target="_self" title="">Gambit Commentary</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/news/Category?oid=1222798" target="_self" title="">I-10: News on the move</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/news/Category?oid=1222792" target="_self" title="">Thumbs Up/Thumbs Down</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/IssueArchives?year=2015" target="_blank" title="">Gambit Past Issue Search</a>
+        </li>
+        
+          </ul>
+        
+      
+        
+          <h3 class="hidden">Browse Events</h3>
+          <ul class="subnav_content" id="SNAV_ArtsCultureTOC" style="display:none;">
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/events/Section?oid=1222783" target="_self" title="">Events Features</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="searchItem">
+          <a href="http://www.bestofneworleans.com/gambit/EventSearch" target="_self" title="New Orleans Events Calendar">Events Calendar</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/stage/Section?oid=1222787" target="_self" title="">Stage Previews and Reviews</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="searchItem">
+          <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222877" target="_self" title="New Orleans Stage Calendar">Stage Calendar</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/visual-arts/Section?oid=1222775" target="_self" title="">Art Previews and Reviews</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="searchItem">
+          <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222875" target="_self" title="">Art Listings</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="searchItem">
+          <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&eventCategory=1222894" target="_self" title="Bookstore and Author Events">Book Events</a>
+        </li>
+        
+          </ul>
+        
+      
+        
+          <h3 class="hidden">Browse Music</h3>
+          <ul class="subnav_content" id="SNAV_Music" style="display:none;">
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/music/Section?oid=1222776" target="_self" title="">Music Home</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="searchItem">
+          <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1228600" target="_self" title="New Orleans music calendar and listings">Music Calendar</a>
+        </li>
+        
+          </ul>
+        
+      
+        
+          <h3 class="hidden">Browse Food &amp; Drink</h3>
+          <ul class="subnav_content" id="SNAV_FoodDrink" style="display:none;">
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/food-and-drink/Section?oid=1222777" target="_self" title="">Food &amp; Drink Home</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/restaurant-review/Category?oid=1222796" target="_self" title="">Restaurant Reviews</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/food-news/Category?oid=1222804" target="_self" title="">Food News</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/five-in-5/Category?oid=1222836" target="_self" title="">Five in Five</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/ArticleArchives?category=2247434&section=1222777" target="_self" title="">Beer Buzz</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/wine-of-the-week/Category?oid=1222805" target="_self" title="">Wine of the Week</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="searchItem">
+          <a href="http://www.bestofneworleans.com/gambit/LocationSearch?locationSection=1222854&guide=1273199" target="_self" title="">Restaurant Guide</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="searchItem">
+          <a href="http://www.bestofneworleans.com/gambit/LocationSearch?locationCategory=1222856" target="_self" title="New Orleans Bar Search">Bar Search</a>
+        </li>
+        
+          </ul>
+        
+      
+        
+          <h3 class="hidden">Browse Living</h3>
+          <ul class="subnav_content" id="SNAV_healthyliving" style="display:none;">
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/health/Category?oid=1278034" target="_self" title="">Health &amp; Wellness</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/IssueArchives?issue=2719814" target="_self" title="">Party Planning Guide</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/home-guide/Category?oid=1993006" target="_self" title="">Home and Design</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/Category?oid=2297015" target="_blank" title="">New Orleans Weddings</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/new-orleans-kids/Category?oid=2049912" target="_self" title="">Kids and Schools</a>
+        </li>
+        
+          </ul>
+        
+      
+        
+          <h3 class="hidden">Browse Shopping</h3>
+          <ul class="subnav_content" id="SNAV_Shopping" style="display:none;">
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/IssueArchives?special=Cue&year=2015" target="_self" title="">CUE Magazine</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/ArticleArchives?category=1222801" target="_self" title="">What&#39;s in Store</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/fashion-beauty-and-home/Category?oid=1222820" target="_self" title="">Fashion and Beauty</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/shopping-news/Category?oid=1222808" target="_self" title="">Shopping News</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/shopping-guides/Category?oid=1341590" target="_self" title="">Shopping Guides</a>
+        </li>
+        
+          </ul>
+        
+      
+        
+          <h3 class="hidden">Browse Classifieds</h3>
+          <ul class="subnav_content" id="SNAV_Classifieds" style="display:none;">
+        
+
+        
+
+        <li class="">
+          <a href="http://classifieds.bestofneworleans.com/neworleans/employment/search" target="_blank" title="">Employment</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://classifieds.bestofneworleans.com/neworleans/real-estate/search" target="_blank" title="">Real Estate</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://classifieds.bestofneworleans.com/" target="_blank" title="">More Classifieds</a>
+        </li>
+        
+          </ul>
+        
+      
+        
+          <h3 class="hidden">Browse Win</h3>
+          <ul class="subnav_content" id="SNAV_Win" style="display:none;">
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/gambit-goods/Category?oid=2315932" target="_self" title="Perks • Deals • Contests • Events">Gambit Goods</a>
+        </li>
+        
+          </ul>
+        
+      
+        
+          <h3 class="hidden">Browse Film</h3>
+          <ul class="subnav_content" id="SNAV_Film" style="display:none;">
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/EventSearch?narrowByDate=&eventCategory=1222896&neighborhood=&keywords=" target="_self" title="">Special Film Screenings</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.bestofneworleans.com/gambit/film/Section?oid=1222778" target="_self" title="">Film Home</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="searchItem">
+          <a href="http://www.bestofneworleans.com/gambit/MovieTimes" target="_self" title="New Orleans Movie Times">Movie Times</a>
+        </li>
+        
+          </ul>
+        
+      
+        
+          <h3 class="hidden">Browse Notices</h3>
+          <ul class="subnav_content" id="SNAV_Notices" style="display:none;">
+        
+
+        
+
+        <li class="">
+          <a href="http://classifieds.bestofneworleans.com/neworleans/announcements/search" target="_blank" title="">Public Notices</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.publicnoticeads.com/LA/" target="_blank" title="">LPA Statewide Public Notices</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.jpclerkofcourt.us" target="_blank" title="">Clerk of Court: Jefferson Parish</a>
+        </li>
+        
+          </ul>
+        
+      
+
+      
+
+      
+      
+      
+        <script type="text/javascript"><!--
+          Event.observe(document, "dom:loaded", function () {
+            var panellinks = $$('.subnav_link');
+            panellinks.each(function(fl) {
+              var panel_id = 'SNAV_'+fl.id.split('_')[1];
+              var link_w = fl.getWidth();
+              new FloatingPanel(fl,panel_id,{
+                rightOffset:'-' + (link_w + 0),
+                topOffset:'21',
+                effects: 'off',
+                closeDelay:'0',
+                allowDefault: true,
+                beforeOpen: function() {
+                  fl.addClassName('hover');
+                  Element.up(fl).addClassName('hover');
+                },
+                beforeClose: function() {
+                  fl.removeClassName('hover');
+                  Element.up(fl).removeClassName('hover');
+                }
+              });
+            });
+          });
+        // --></script>
+      
+    
+  
+</div>
+
+
+
+
+
+
+
+<!-- End #NavigationHorizontal --><div class="GlobalHeader EventSearch Ad" id="PencilBar"> 
+   <!-- PencilBar -->
+          <div id="div-gpt-ad-pencilbar" style="">
+            <script type='text/javascript'>
+                googletag.display('div-gpt-ad-pencilbar');
+            </script>
+          </div>
+</div>
+  </div><!-- end gridHeader -->
+
+  <div id="gridMain">
+    <div id="gridFrame"> 
+    
+      <!-- ZoneA -->
+      <div id="gridMainSidebar">
+        
+
+
+  <div id="EventsSearchTerms" class="MainSidebar EventSearch  subtractiveSelections">
+    <h3>You searched for:</h3>
+    <ul>
+    
+    
+    
+      <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;neighborhoodGroup=1287922" class="fr" onclick="$(this).addClassName('off');this.blur;">[X]</a>Next 7 Days</li>
+    
+    
+    
+      <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days" class="fr" onclick="$(this).addClassName('off');this.blur;">[X]</a>Orleans</li>
+    
+    
+    
+      <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922" class="fr" onclick="$(this).addClassName('off');this.blur;">[X]</a>Events Calendar</li>
+    
+    
+    
+    
+    
+    </ul>
+
+    
+    <a href="http://www.bestofneworleans.com/gambit/EventSearch" id="searchStartOver">Start over</a>
+  </div><!-- EventsSearchTerms -->
+
+
+<div id="EventsSearchForm" class="MainSidebar EventSearch ">
+  <h3 class="componentHeader"><span class="componentTitle">Search for&hellip;</span></h3>
+  <form name="eventsSearchForm" method="get" action="http://www.bestofneworleans.com/gambit/EventSearch">
+    <input type="hidden" name="narrowByDate" value="Next 7 Days">
+    <input type="hidden" name="neighborhood" value="">
+    <input type="hidden" name="eventSection" value="1222876">
+    <input type="hidden" name="eventCategory" value="">
+    <input type="hidden" name="location" value="">
+    <input type="hidden" name="feature" value="">
+    <input type="hidden" name="specialPlacement" value="">
+    <input type="text" value="" name="keywords" title="Enter keyword" class="text" />
+    <input class="submitBtn" type="submit" value="Search" name="submit" />
+  </form>
+</div><!-- EventsSearchForm -->
+
+
+<div id="EventSearchNarrowHeader" class="MainSidebar EventSearch ">
+  <h3>Narrow Search</h3>
+  <ul>
+
+
+
+
+
+
+
+<script type="text/javascript">
+<!--
+  dnLoadScript("/foundation/scripts/calendar.js");
+//-->
+</script>
+
+<script type="text/javascript">
+<!--
+  
+    var showInline = false;
+  
+  function showPopupCalendar (e) {
+      var calid = this.id + ":dncal";
+      var cal = $(calid).up();
+      if (!cal) return;
+
+      if (cal.visible()) {
+          cal.blindUp({ duration: 0.3 });
+      }
+      else {
+          dnCalendar.registry[calid].redraw();
+          cal.blindDown({ duration: 0.3 });
+      } 
+  };
+
+  function popupCalendarCallback (date, id) {
+      var month = date.getMonth() >= 9 ? date.getMonth() + 1 : "0" + (date.getMonth() + 1);
+      var day = date.getDate() >= 10 ? date.getDate() : "0" + date.getDate();
+      var url = new Foundation.URL("http:\/\/www.bestofneworleans.com\/gambit\/EventSearch?eventSection=1222876&narrowByDate=Next%207%20Days&neighborhoodGroup=1287922");
+      url.set("narrowByDate", date.getFullYear() + "-" + month + "-" + day);
+      url.go();
+  };
+
+  // Add popup calendar to the page.
+  dnAddEvent(window, "dndomload", function () {
+      if (showInline){
+        var link = $("FOL_jumpdate"); if (!link) return;
+        if (!link.id) link.id = "__dnPopupCalendarLink" + i;
+        var id = link.id;
+        var calid = id+":dncal";
+        var cal = new dnCalendar(calid, window.popupCalendarCallback, null, "none");
+         
+        $("leftEventCalCont").insert($("FOL_jumpdate:dncal"));
+        //jQuery("#leftEventCalCont").append(myCal);
+        var calEl = $(cal.id).show().setStyle({ position: "relative", padding: "2px", height:"auto", width:"auto", fontSize: "10px" }); 
+        if(typeof jQuery != "undefined"){
+            jQuery(calEl).parent().addClass('cal-wrap');
+        }
+        dnCalendar.registry[calid].redraw();
+        $("leftEventCalCont").show();
+      } else {        
+        var link = $("FOL_jumpdate"); if (!link) return;
+        dnAddEvent(link, "click", window.showPopupCalendar);
+        if (!link.id) link.id = "__dnPopupCalendarLink" + i;
+        var id = link.id;
+        var cal = new dnCalendar(id+":dncal", window.popupCalendarCallback, null, "none");
+        var offset = $(id).cumulativeOffset();
+        $(cal.id).wrap("div").hide().setStyle({
+            position: "absolute",
+            top: (offset.top - 10) + "px",
+            left: (offset.left + $(id).getWidth() + 10) + "px"
+        });
+        var calEl = $(cal.id).show().setStyle({ position: "static", padding: "2px" }); 
+        if(typeof jQuery != "undefined"){
+            jQuery(calEl).parent().addClass('cal-wrap');
+        }
+      }
+  });
+
+  // XXX - needs site specific CSS
+  dnCalendarDefaultStyle();
+//-->
+</script>
+
+
+
+
+
+<li id="EventSearchNarrowbyDate" class="EventSearchNarrowbyDate">
+  <h4>Narrow by date</h4>
+  <ul class="narrowOptions">
+    <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Today&amp;neighborhoodGroup=1287922">Today</a></li>
+    <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Tomorrow&amp;neighborhoodGroup=1287922">Tomorrow</a></li>
+    <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=This%20Weekend&amp;neighborhoodGroup=1287922">This Weekend</a></li>
+    <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Next 7 Days</a></li>
+    <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%2030%20Days&amp;neighborhoodGroup=1287922">Next 30 Days</a></li>
+    <li class="flyout_link_parent"> <strong> <a href="javascript://ShowPopupCalendar" id="FOL_jumpdate" class="">... Jump to date &raquo;</a> </strong> </li>
+  </ul>
+  
+</li>
+
+
+
+
+
+
+
+<script type="text/javascript">
+<!--
+  dnLoadScript("/foundation/scripts/flyouts-compiled.js");
+//-->
+</script>
+
+
+
+
+
+
+
+
+
+<li id="EventSearchNarrowByCategory" class="EventSearchNarrowByCategory">
+  <h4>Category</h4>
+  <ul class="narrowOptions">
+
+    
+    
+      
+        <li class="events"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222890&amp;eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Events</a></li>
+      
+        <li class="holiday_season_2015"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2802707&amp;eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Holiday Season 2015</a></li>
+      
+        <li class="family_and_kids"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222889&amp;eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Family and Kids</a></li>
+      
+        <li class="new_year_s_eve_2016"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2823926&amp;eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">New Year's Eve 2016</a></li>
+      
+        <li class="farmers_markets"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2513758&amp;eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Farmers Markets</a></li>
+      
+        <li class="mardi_gras_2016"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2829935&amp;eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Mardi Gras 2016</a></li>
+      
+        <li class="festivals"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2501722&amp;eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Festivals</a></li>
+      
+        <li class="fitness__dance_and_outdoors"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1405139&amp;eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Fitness, Dance and Outdoors</a></li>
+      
+        <li class="food_and_drink"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2227838&amp;eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Food and Drink</a></li>
+      
+        <li class="fundraisers_and_galas"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2501720&amp;eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Fundraisers and Galas</a></li>
+      
+        <li class="lectures_and_discussions"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2764249&amp;eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Lectures and Discussions</a></li>
+      
+        <li class="sports"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1405138&amp;eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Sports</a></li>
+      
+        <li class="words"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222894&amp;eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Words</a></li>
+      
+        <li class="volunteers_needed"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222892&amp;eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Volunteers Needed</a></li>
+      
+        <li class="call_for_writers"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1712216&amp;eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Call for Writers</a></li>
+      
+        <li class="request_for_applications"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222891&amp;eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Request for Applications</a></li>
+      
+    
+
+    
+    <div class="flyout_content" style="display:none;">
+      <a class="flyout_close flyout_close_button" href="javascript://HideMoreCategories">[X]</a>
+      <a class="flyout_close flyout_close_text" href="javascript://HideMoreCategories">Close Window</a>
+    
+        <h4 class="filterSub"><a href="http://www.bestofneworleans.com/gambit/EventSearch?narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">All Categories</a></h4>
+        <table>
+        <tr valign="top">
+          <td>
+          <ul>
+      
+      
+
+      
+        <li class="events_calendar"><b><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Events Calendar</a></b></li>
+      
+      <li class="call_for_writers"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1712216&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Call for Writers</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="events"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222890&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Events</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="family_and_kids"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222889&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Family and Kids</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="farmers_markets"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2513758&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Farmers Markets</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="festivals"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2501722&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Festivals</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="fitness__dance_and_outdoors"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1405139&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Fitness, Dance and Outdoors</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="food_and_drink"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2227838&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Food and Drink</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="fundraisers_and_galas"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2501720&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Fundraisers and Galas</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="holiday_season_2015"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2802707&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Holiday Season 2015</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="lectures_and_discussions"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2764249&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Lectures and Discussions</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="mardi_gras_2016"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2829935&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Mardi Gras 2016</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="new_year_s_eve_2016"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2823926&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">New Year's Eve 2016</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="request_for_applications"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222891&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Request for Applications</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="sports"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1405138&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Sports</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="volunteers_needed"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222892&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Volunteers Needed</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="words"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222894&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Words</a></li>
+
+      
+        <br />
+      
+
+      
+
+      
+    
+      
+
+      
+        <li class="art"><b><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222875&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Art</a></b></li>
+      
+      <li class="call_for_artists"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222888&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Call for Artists</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="galleries"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222885&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Galleries</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="happenings"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2513753&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Happenings</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="museums"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222887&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Museums</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="opening"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222900&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Opening</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="spare_spaces"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222886&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Spare Spaces</a></li>
+
+      
+        <br />
+      
+
+      
+         </ul>
+        </td>
+        <td>
+          <ul>
+      
+
+      
+    
+      
+
+      
+        <li class="stage"><b><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222877&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Stage</a></b></li>
+      
+      <li class="auditions"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222881&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Auditions</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="cabaret__burlesque___variety"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222897&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Cabaret, Burlesque & Variety</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="call_for_theater"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1712374&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Call for Theater</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="comedy"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222884&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Comedy</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="dance"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222882&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Dance</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="family"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2622902&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Family</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="opera"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222883&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Opera</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="theater"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222880&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Theater</a></li>
+
+      
+        <br />
+      
+
+      
+         </ul>
+        </td>
+        <td>
+          <ul>
+      
+
+      
+    
+      
+
+      
+        <li class="film"><b><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222879&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Film</a></b></li>
+      
+      <li class="call_for_filmmakers"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1712214&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Call for Filmmakers</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="film_festivals"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1833601&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Film Festivals</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="now_showing"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222895&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Now Showing</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="special_screenings"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1222896&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Special Screenings</a></li>
+
+      
+        <br />
+      
+
+      
+
+      
+    
+      
+
+      
+        <li class="music"><b><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1228600&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Music</a></b></li>
+      
+      <li class="auditions"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2068953&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Auditions</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="bluegrass"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2053268&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Bluegrass</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="blues"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2054377&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Blues</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="cajun_zydeco"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2053269&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Cajun/Zydeco</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="call_for_music"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1860508&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Call for music</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="classical_concerts"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1228601&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Classical/Concerts</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="country_folk"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2053276&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Country/Folk</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="djs_dance"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1228602&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">DJs/Dance</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="electronic"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2053267&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Electronic</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="funk"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2053275&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Funk</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="general"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1228603&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">General</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="jazz"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2053270&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Jazz</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="karaoke"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1860506&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Karaoke</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="latin"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2053272&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Latin</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="metal"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2053253&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Metal</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="open_mic"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=1860507&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Open mic</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="other"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2053274&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Other</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="pop"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2053273&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Pop</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="punk"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2513759&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Punk</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="r_b_soul"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2053266&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">R&B/Soul</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="rap_hip_hop_bounce"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2053252&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Rap/Hip-Hop/Bounce</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="rock"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2053251&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Rock</a></li>
+
+      
+
+      
+
+      
+    
+      
+
+      
+      <li class="singer_songwriter"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=2053271&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Singer/songwriter</a></li>
+
+      
+        <br />
+      
+
+      
+
+      
+    
+            </ul>
+          </td>
+          </tr>
+        </table>
+      
+    </div>
+    <li class="flyout_link_parent"><a href="javascript://ShowMoreCategories" class="flyout_link">...more &raquo;</a></li>
+
+  </ul>
+</li>
+
+
+
+
+
+<script type="text/javascript">
+<!--
+  dnLoadScript("/foundation/scripts/flyouts-compiled.js");
+//-->
+</script>
+
+
+
+
+
+  
+
+
+  
+  
+      
+  <li>
+    <h4>Region</h4>
+    <ul class="narrowOptions">
+    
+      
+        
+        
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223326">Bywater</a></li>
+        
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223336">Carrollton/Riverbend/University</a></li>
+        
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223319">Central Business District</a></li>
+        
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223320">Citywide</a></li>
+        
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223316">Faubourg Marigny</a></li>
+        
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223318">French Quarter</a></li>
+        
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223342">Gentilly</a></li>
+        
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223317">Lakeview</a></li>
+        
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223331">Mid-City</a></li>
+        
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223343">New Orleans East</a></li>
+        
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223340">Treme</a></li>
+        
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223329">Warehouse District</a></li>
+        
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223330">Uptown</a></li>
+        
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=2514086">Central City</a></li>
+        
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=2513851">Lower Ninth Ward</a></li>
+        
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=2511463">Seventh Ward/St. Roch</a></li>
+        
+      
+
+              
+      <div class="flyout_content" style="display:none;">
+        <a class="flyout_close flyout_close_button" href="javascript://HideMoreCategories">[X]</a>
+        <a class="flyout_close flyout_close_text" href="javascript://HideMoreCategories">Close Window</a>
+        
+            <h4 class="filterSub"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days">All Neighborhoods</a></h4>
+            <table>
+            <tr valign="top">
+              <td>
+              <ul>
+          
+          
+
+          
+            <li><b><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Orleans</a></b></li>
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223318">French Quarter</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223326">Bywater</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223319">Central Business District</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223331">Mid-City</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223317">Lakeview</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223343">New Orleans East</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223316">Faubourg Marigny</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223336">Carrollton/Riverbend/University</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223342">Gentilly</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223329">Warehouse District</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223340">Treme</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223320">Citywide</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223330">Uptown</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=2514086">Central City</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=2513851">Lower Ninth Ward</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=2511463">Seventh Ward/St. Roch</a></li>
+
+          
+            <br />
+           
+
+          
+              </ul>
+            </td>
+            <td>
+              <ul>
+          
+
+          
+        
+          
+
+          
+            <li><b><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287923">Jefferson (Eastbank)</a></b></li>
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223335">River Ridge</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223323">Jefferson</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223325">Metairie</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223324">Kenner</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223322">Harahan</a></li>
+
+          
+            <br />
+           
+
+          
+
+          
+        
+          
+
+          
+            <li><b><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287924">Westbank</a></b></li>
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223337">Belle Chasse</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223334">Gretna</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223341">Westwego</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223328">West Bank</a></li>
+
+          
+            <br />
+           
+
+          
+              </ul>
+            </td>
+            <td>
+              <ul>
+          
+
+          
+        
+          
+
+          
+            <li><b><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287925">St. Tammany</a></b></li>
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223346">Abita Springs</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223333">Slidell</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223338">Madisonville</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223345">Mandeville</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223339">Covington</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223344">Hammond</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223327">More Northshore</a></li>
+
+          
+            <br />
+           
+
+          
+
+          
+        
+          
+
+          
+            <li><b><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287926">Outskirts</a></b></li>
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=2050514">St. Bernard Parish</a></li>
+
+          
+
+          
+
+          
+        
+          
+
+          
+          <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhood=1223332">Outskirts</a></li>
+
+          
+            <br />
+           
+
+          
+
+          
+        
+                </ul>
+              </td>
+              </tr>
+            </table>
+            
+      </div>
+      <li class="flyout_link_parent"><a href="javascript://ShowMoreNeighborhoods" class="flyout_link">...more &raquo;</a></li>
+
+    </ul>
+  </li>    
+  
+
+
+    
+
+
+
+    
+
+
+  <li id="EventSearchNarrowByEventFeatures" class="EventSearchNarrowByEventFeatures">
+    <h4>Show only</h4>
+    <ul class="narrowOptions">
+      <li class="gambit_pick">
+        <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;feature=Gambit%20Pick&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Gambit Pick</a>
+        <div class="FeaturesIcons">
+          <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;feature=Gambit%20Pick&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922" class="FeaturesIcons_gambit_pick" title="Gambit Pick"><span>Gambit Pick</span></a>
+        </div>        
+      </li>
+    
+  
+    
+      <li class="members_pick">
+        <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;feature=Members%20Pick&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Members Pick</a>
+        <div class="FeaturesIcons">
+          <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;feature=Members%20Pick&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922" class="FeaturesIcons_members_pick" title="Members Pick"><span>Members Pick</span></a>
+        </div>        
+      </li>
+    
+  
+    
+      <li class="user_submitted">
+        <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;feature=User%20Submitted&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">User Submitted</a>
+        <div class="FeaturesIcons">
+          <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;feature=User%20Submitted&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922" class="FeaturesIcons_user_submitted" title="User Submitted"><span>User Submitted</span></a>
+        </div>        
+      </li>
+    
+  
+    
+      <li class="image">
+        <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;feature=Image&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">Image</a>
+        <div class="FeaturesIcons">
+          <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;feature=Image&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922" class="FeaturesIcons_image" title="Image"><span>Image</span></a>
+        </div>        
+      </li>
+    </ul>
+  </li>
+
+
+
+<li id="EventSearchNarrowByOngoing" class="EventSearchNarrowByOngoing">
+  <h4>Occurrence</h4>
+  <ul class="narrowOptions">
+    <li>
+      <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922&amp;ongoing=Timely">Timely (all)</a>
+    </li>
+    <li>
+      <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922&amp;ongoing=Single%20Day">Single Day</a>
+    </li>
+    <li>
+      <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922&amp;ongoing=Limited%20Run">Limited Run</a>
+    </li>
+    <li>
+      <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922&amp;ongoing=Daily">Daily</a>
+    </li>
+    <li>
+      <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922&amp;ongoing=Weekly">Weekly</a>
+    </li>
+    <li>
+      <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922&amp;ongoing=Monthly">Monthly</a>
+    </li>
+    <li>
+      <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922&amp;ongoing=Ongoing">Ongoing</a>
+    </li>
+    <li>
+      <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922">All</a>
+    </li>
+  </ul>
+</li>
+
+
+  </ul>
+</div>
+
+<div id="OtherSearches" class="MainSidebar EventSearch ">
+  <h3>Other Searches</h3>
+  <ul class="moduleList">
+    
+    
+      <li><a href="http://www.bestofneworleans.com/gambit/LocationSearch">Location Guide</a></li>
+    
+    
+      
+        
+          
+         
+           <li><a href="http://www.bestofneworleans.com/gambit/LocationSearch?guide=1273199&amp;locationSection=1222854">Dining Guide</a></li>
+          
+            
+      
+      
+    
+      <li><a href="http://www.bestofneworleans.com/gambit/MovieTimes">Movie Times</a></li>
+    
+    
+      <li><a href="http://www.bestofneworleans.com/gambit/ArticleArchives">Articles</a></li>
+    
+    
+      <li><a href="http://www.bestofneworleans.com/gambit/IssueArchives">Issues</a></li>
+    
+    
+      <li><a href="http://www.bestofneworleans.com/gambit/CommentArchives">Comments</a></li>
+    
+    
+      <li><a href="http://www.bestofneworleans.com/gambit/MemberSearch">Members</a></li>
+    
+    
+      <li><a href="http://www.bestofneworleans.com/gambit/VideoArchives">Videos</a></li>
+    
+    
+      
+      
+        <li><a href="http://www.bestofneworleans.com/gambit/ImageArchives">Images</a></li>
+      
+    
+  </ul>
+</div><!-- OtherSearches -->
+
+      </div><!-- end gridMainSidebar -->
+      
+      <!-- ZoneB -->
+      <div id="gridMainColumn">  
+        
+<style>
+#EventsStaffPickBox {overflow:hidden;padding:0;}
+#EventsStaffPickBox .listing {padding:0px 0px 4px;float:none;margin:0;width:auto;height:200px;border-bottom:1px solid #ccc;overflow:hidden;}
+#EventsStaffPickBox .listing .staffPickImage {float:left;margin:0 20px 0px 0;}
+#EventsStaffPickBox .listing .eventPickText {overflow:hidden;}
+#EventsStaffPickBox .listing .eventPickDetails, .listing .listingLocation {overflow:hidden;margin:0;}
+#EventsStaffPickBox .listing .staffpickLink {text-align:right;margin:0;}
+</style>
+
+
+
+  
+  
+
+
+  
+  
+
+
+  
+
+  <script type="text/javascript"><!--
+    var EventsStaffPickBoxScrollerItems = [];
+    var EventsStaffPickBoxFeedPosition = 0;
+    var EventsStaffPickBoxTicker;
+
+    function EventsStaffPickBoxScrollTicker () {
+
+      var currentIndex = EventsStaffPickBoxFeedPosition++;
+      var maxElements = 1;
+
+      if (currentIndex >= EventsStaffPickBoxScrollerItems.size()) {
+        currentIndex = 0;
+        EventsStaffPickBoxFeedPosition = 1;
+      }
+    
+      if (EventsStaffPickBoxScrollerItems[currentIndex]) {
+        newItem = new Element('div', {'class': "EventListing clearfix", 'id': "event" + EventsStaffPickBoxScrollerItems[currentIndex].objid, 'style': "margin:0; height: 200px; position: relative; padding: 0px;border:0 none;"}).hide().update(EventsStaffPickBoxScrollerItems[currentIndex].body);
+
+        // Add new item.
+        new Insertion.Top($('EventsStaffPickBoxScrollerContainer'), newItem);
+
+        // Poof!  New item!
+        new Effect.SlideDown($$('#EventsStaffPickBoxScrollerContainer>div').first());
+
+        // Remove old item(s).
+        var numElements = $$("#EventsStaffPickBoxScrollerContainer>div").size();
+        if (numElements > maxElements) {
+          for (var i = maxElements; i < numElements; i++) {
+            var deleteMe = $$("#EventsStaffPickBoxScrollerContainer>div")[i];
+            // Remove.
+            new Effect.Fade(deleteMe, {afterFinish: function() {deleteMe.remove(); return false;}});
+          }
+        }
+      }
+      return false;
+    }
+
+    function EventsStaffPickBoxReverseScrollTicker () {
+
+      EventsStaffPickBoxFeedPosition--;
+      var currentIndex = EventsStaffPickBoxFeedPosition-1;
+      var maxElements = 1;
+
+      if (currentIndex < 0) {
+        currentIndex = EventsStaffPickBoxScrollerItems.size();
+        EventsStaffPickBoxFeedPosition = EventsStaffPickBoxScrollerItems.size()+1;
+      }
+
+      if (EventsStaffPickBoxScrollerItems[currentIndex]) {
+        newItem = new Element('div', {'class': "EventListing clearfix", 'id': "event" + EventsStaffPickBoxScrollerItems[currentIndex].objid, 'style': "margin:0; height: 200px; position: relative; padding: 0px;border:0 none;"}).update(EventsStaffPickBoxScrollerItems[currentIndex].body);
+
+        // Hide first item
+        new Effect.SlideUp($$('#EventsStaffPickBoxScrollerContainer>div').first());
+
+        // Add new item.
+        new Insertion.Bottom($('EventsStaffPickBoxScrollerContainer'), newItem);
+
+        // Remove old item(s).
+        var numElements = $$("#EventsStaffPickBoxScrollerContainer>div").size();
+        if (numElements > maxElements) {
+          for (var i = 0; i < (numElements - maxElements); i++) {
+            var deleteMe = $$("#EventsStaffPickBoxScrollerContainer>div")[i];
+            // Remove.
+            new Effect.Fade(deleteMe, {afterFinish: function() {deleteMe.remove(); return false;}});
+          }
+        }
+      }
+      return false;
+    }
+
+    Event.observe(document, "dom:loaded", function () {
+
+      // Create item feed.
+      $$("#EventsStaffPickBox>div.scrollerItem").each(function (f) {
+        var objid = f.readAttribute("data-objid");
+        if (objid) {
+          EventsStaffPickBoxScrollerItems.push({
+            'objid': objid,
+            'body':  f.readAttribute("data-body")
+          });
+        }
+      });
+
+      // Prime the ticker.
+      EventsStaffPickBoxScrollTicker();
+
+      // Set up periodic updater. (via PeriodicalExecuter)
+      if (EventsStaffPickBoxScrollerItems.size() > 1) {
+
+        // Set up controls
+        jQuery("#EventsStaffPickBoxPrevControl").click(function() {
+          EventsStaffPickBoxTicker.stop(); // kill the timer
+          EventsStaffPickBoxReverseScrollTicker();
+          // set a new timer
+          EventsStaffPickBoxTicker = new PeriodicalExecuter( EventsStaffPickBoxScrollTicker, 10);
+          return false;
+        });
+
+        jQuery("#EventsStaffPickBoxNextControl").click(function() {
+          EventsStaffPickBoxTicker.stop(); // kill the timer
+          EventsStaffPickBoxScrollTicker();
+          // set a new timer
+          EventsStaffPickBoxTicker = new PeriodicalExecuter( EventsStaffPickBoxScrollTicker, 10);
+          return false;
+        });
+
+        EventsStaffPickBoxTicker = new PeriodicalExecuter( EventsStaffPickBoxScrollTicker, 10);
+      }
+    });
+  //--></script>
+
+
+  
+
+  
+    <div id="EventsStaffPickBox" class="MainColumn EventSearch ">
+      <h2>Gambit Pick</h2>
+      <div id="EventsStaffPickBoxScrollerContainer" style="height: 205px; overflow: hidden;">
+      </div>
+      <a id="EventsStaffPickBoxPrevControl" href="#">&laquo;Prev</a>
+          <a id="EventsStaffPickBoxNextControl" href="#">Next&raquo;</a>
+        
+      
+      
+      <div class="EventListing clearfix scrollerItem"
+         id="event2837878"
+         data-objid="2837878"
+         data-body="&lt;div class=&quot;listing&quot;&gt;
+        &lt;div class=&quot;eventPickInformation&quot; style=&quot;position: relative;&quot;&gt;
+          &lt;div class=&quot;staffPickImage&quot;&gt;
+            
+              
+              &lt;a href=&quot;http://www.bestofneworleans.com/gambit/new-years-eve-at-jackson-square/Event?oid=2837878&quot;&gt;&lt;img src=&quot;/images/eventDefault.jpg&quot; alt=&quot;New Year&amp;#39;s Eve at Jackson Square&quot; /&gt;&lt;/a&gt;              
+            
+          &lt;/div&gt;&lt;!-- end staffpickImage --&gt;
+          &lt;div class=&quot;eventPickText&quot;&gt;
+            &lt;div class=&quot;eventPickDetails&quot;&gt;
+              &lt;h3 class=&quot;eventTitle&quot;&gt;
+                &lt;a href=&quot;http://www.bestofneworleans.com/gambit/new-years-eve-at-jackson-square/Event?oid=2837878&quot;&gt;
+                  New Year&#39;s Eve at Jackson Square
+                &lt;/a&gt;
+                
+              &lt;/h3&gt;
+              
+                &lt;span class=&quot;eventPickDate&quot;&gt;Thu., Dec. 31, 9 p.m.&lt;/span&gt;&lt;br /&gt;
+              
+              
+              &lt;span class=&quot;eventCategories events&quot;&gt;&lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222890&quot; rel=&quot;tag&quot;&gt;Events&lt;/a&gt;, &lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2823926&quot; rel=&quot;tag&quot;&gt;New Year&#39;s Eve 2016&lt;/a&gt; &lt;div class=&quot;FeaturesIcons&quot;&gt;
+&lt;a href=&quot;/gambit/EventSearch?feature=Gambit%20Pick&quot; class=&quot;FeaturesIcons_gambit_pick&quot; title=&quot;Gambit Pick&quot;&gt;&lt;span&gt;Gambit Pick&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/span&gt;&lt;br&gt;
+              &lt;p class=&quot;descripTxt&quot;&gt;
+                The city&#39;s New Year&#39;s Eve event at the Decatur Street Stage features Luke Winslow King at 9 p.m., Cyril Neville&rsquo;s Swamp Funk with Big Chief Monk Boudreaux at
+                
+                &amp;hellip; &amp;nbsp; &lt;a href=&quot;http://www.bestofneworleans.com/gambit/new-years-eve-at-jackson-square/Event?oid=2837878&quot; class=&quot;readmore&quot;&gt;Read more &amp;raquo;&lt;/a&gt;
+                
+                  
+              &lt;/p&gt;
+            &lt;/div&gt;&lt;!-- end eventPickDetails --&gt;
+
+            
+              &lt;div class=&quot;listingLocation&quot;&gt;
+                @ &lt;a href=&quot;http://www.bestofneworleans.com/gambit/jackson_square/Location?oid=1274522&quot;&gt;Jackson Square&lt;/a&gt;&lt;br /&gt;
+                St. Peter Street Gate 
+                &lt;span class=&quot;locationRegion&quot;&gt;&lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223318&quot;&gt;French Quarter&lt;/a&gt;&lt;/span&gt;
+                (&lt;a href=&quot;http://www.bestofneworleans.com/gambit/Map?oid=oid%3A1274522&quot;&gt;map&lt;/a&gt;)&lt;br /&gt;
+              &lt;/div&gt;&lt;!-- end listingLocation --&gt;
+            
+          &lt;/div&gt;&lt;!-- end eventPickText --&gt;
+        &lt;/div&gt;&lt;!-- end eventPickInformation --&gt;
+        &lt;p class=&quot;staffpickLink&quot;&gt;&lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?feature=Gambit%20Pick&quot;&gt;All Gambit Picks &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- end listing --&gt;"
+         style="display: none; position: relative;border:0 none;">
+      <div class="listing">
+        <div class="eventPickInformation" style="position: relative;">
+          <div class="staffPickImage">
+            
+              
+              <a href="http://www.bestofneworleans.com/gambit/new-years-eve-at-jackson-square/Event?oid=2837878"><img src="/images/eventDefault.jpg" alt="New Year&#39;s Eve at Jackson Square" /></a>              
+            
+          </div><!-- end staffpickImage -->
+          <div class="eventPickText">
+            <div class="eventPickDetails">
+              <h3 class="eventTitle">
+                <a href="http://www.bestofneworleans.com/gambit/new-years-eve-at-jackson-square/Event?oid=2837878">
+                  New Year's Eve at Jackson Square
+                </a>
+                
+              </h3>
+              
+                <span class="eventPickDate">Thu., Dec. 31, 9 p.m.</span><br />
+              
+              
+              <span class="eventCategories events"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222890" rel="tag">Events</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2823926" rel="tag">New Year's Eve 2016</a> <div class="FeaturesIcons">
+<a href="/gambit/EventSearch?feature=Gambit%20Pick" class="FeaturesIcons_gambit_pick" title="Gambit Pick"><span>Gambit Pick</span></a>
+</div></span><br>
+              <p class="descripTxt">
+                The city's New Year's Eve event at the Decatur Street Stage features Luke Winslow King at 9 p.m., Cyril Neville’s Swamp Funk with Big Chief Monk Boudreaux at
+                
+                &hellip; &nbsp; <a href="http://www.bestofneworleans.com/gambit/new-years-eve-at-jackson-square/Event?oid=2837878" class="readmore">Read more &raquo;</a>
+                
+                  
+              </p>
+            </div><!-- end eventPickDetails -->
+
+            
+              <div class="listingLocation">
+                @ <a href="http://www.bestofneworleans.com/gambit/jackson_square/Location?oid=1274522">Jackson Square</a><br />
+                St. Peter Street Gate 
+                <span class="locationRegion"><a href="http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223318">French Quarter</a></span>
+                (<a href="http://www.bestofneworleans.com/gambit/Map?oid=oid%3A1274522">map</a>)<br />
+              </div><!-- end listingLocation -->
+            
+          </div><!-- end eventPickText -->
+        </div><!-- end eventPickInformation -->
+        <p class="staffpickLink"><a href="http://www.bestofneworleans.com/gambit/EventSearch?feature=Gambit%20Pick">All Gambit Picks &raquo;</a></p>
+      </div><!-- end listing -->
+    </div><!-- end EventListing -->
+    
+      
+      <div class="EventListing clearfix scrollerItem"
+         id="event2818331"
+         data-objid="2818331"
+         data-body="&lt;div class=&quot;listing&quot;&gt;
+        &lt;div class=&quot;eventPickInformation&quot; style=&quot;position: relative;&quot;&gt;
+          &lt;div class=&quot;staffPickImage&quot;&gt;
+            
+              &lt;a href=&quot;http://www.bestofneworleans.com/gambit/george-clinton-and-parliament-funkadelic-funky-new-years-masquerade-ball-feat-dj-soul-sister/Event?oid=2818331&quot;&gt;&lt;img src=&quot;http://media1.fdncms.com/gambit/imager/u/review/2839853/screen_shot_2015-12-24_at_10.18.08_am.png&quot; alt=&quot;George Clinton &amp;amp; Parliament Funkadelic Funky New Year&amp;#39;s Masquerade Ball feat. DJ Soul Sister&quot; /&gt;&lt;/a&gt;
+            
+          &lt;/div&gt;&lt;!-- end staffpickImage --&gt;
+          &lt;div class=&quot;eventPickText&quot;&gt;
+            &lt;div class=&quot;eventPickDetails&quot;&gt;
+              &lt;h3 class=&quot;eventTitle&quot;&gt;
+                &lt;a href=&quot;http://www.bestofneworleans.com/gambit/george-clinton-and-parliament-funkadelic-funky-new-years-masquerade-ball-feat-dj-soul-sister/Event?oid=2818331&quot;&gt;
+                  George Clinton &amp; Parliament Funkadelic Funky New Year&#39;s Masquerade Ball feat. DJ Soul Sister
+                &lt;/a&gt;
+                
+              &lt;/h3&gt;
+              
+                &lt;span class=&quot;eventPickDate&quot;&gt;Tue., Dec. 29, 9 p.m. and Wed., Dec. 30, 9 p.m.&lt;/span&gt;&lt;br /&gt;
+              
+              
+              &lt;span class=&quot;eventCategories general&quot;&gt;&lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1228603&quot; rel=&quot;tag&quot;&gt;General&lt;/a&gt;, &lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2053275&quot; rel=&quot;tag&quot;&gt;Funk&lt;/a&gt;, &lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2823926&quot; rel=&quot;tag&quot;&gt;New Year&#39;s Eve 2016&lt;/a&gt; &lt;div class=&quot;FeaturesIcons&quot;&gt;
+&lt;a href=&quot;/gambit/EventSearch?feature=Gambit%20Pick&quot; class=&quot;FeaturesIcons_gambit_pick&quot; title=&quot;Gambit Pick&quot;&gt;&lt;span&gt;Gambit Pick&lt;/span&gt;&lt;/a&gt;
+&lt;a href=&quot;/gambit/EventSearch?feature=Members%20Pick&quot; class=&quot;FeaturesIcons_members_pick&quot; title=&quot;Members Pick&quot;&gt;&lt;span&gt;Members Pick&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/span&gt;&lt;br&gt;
+              &lt;p class=&quot;descripTxt&quot;&gt;
+                The P-Funk bandleader returns to New Orleans to ring in the New Year with a two-night bender. The reinvigorated 74-year-old performer and his massive band host a &ldquo;masquerade
+                
+                &amp;hellip; &amp;nbsp; &lt;a href=&quot;http://www.bestofneworleans.com/gambit/george-clinton-and-parliament-funkadelic-funky-new-years-masquerade-ball-feat-dj-soul-sister/Event?oid=2818331&quot; class=&quot;readmore&quot;&gt;Read more &amp;raquo;&lt;/a&gt;
+                
+                  
+              &lt;/p&gt;
+            &lt;/div&gt;&lt;!-- end eventPickDetails --&gt;
+
+            
+              &lt;div class=&quot;listingLocation&quot;&gt;
+                @ &lt;a href=&quot;http://www.bestofneworleans.com/gambit/tipitina_s/Location?oid=1273795&quot;&gt;Tipitina&#39;s&lt;/a&gt;&lt;br /&gt;
+                501 Napoleon Ave. 
+                &lt;span class=&quot;locationRegion&quot;&gt;&lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223330&quot;&gt;Uptown&lt;/a&gt;&lt;/span&gt;
+                (&lt;a href=&quot;http://www.bestofneworleans.com/gambit/Map?oid=oid%3A1273795&quot;&gt;map&lt;/a&gt;)&lt;br /&gt;
+              &lt;/div&gt;&lt;!-- end listingLocation --&gt;
+            
+          &lt;/div&gt;&lt;!-- end eventPickText --&gt;
+        &lt;/div&gt;&lt;!-- end eventPickInformation --&gt;
+        &lt;p class=&quot;staffpickLink&quot;&gt;&lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?feature=Gambit%20Pick&quot;&gt;All Gambit Picks &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- end listing --&gt;"
+         style="display: none; position: relative;border:0 none;">
+      <div class="listing">
+        <div class="eventPickInformation" style="position: relative;">
+          <div class="staffPickImage">
+            
+              <a href="http://www.bestofneworleans.com/gambit/george-clinton-and-parliament-funkadelic-funky-new-years-masquerade-ball-feat-dj-soul-sister/Event?oid=2818331"><img src="http://media1.fdncms.com/gambit/imager/u/review/2839853/screen_shot_2015-12-24_at_10.18.08_am.png" alt="George Clinton &amp; Parliament Funkadelic Funky New Year&#39;s Masquerade Ball feat. DJ Soul Sister" /></a>
+            
+          </div><!-- end staffpickImage -->
+          <div class="eventPickText">
+            <div class="eventPickDetails">
+              <h3 class="eventTitle">
+                <a href="http://www.bestofneworleans.com/gambit/george-clinton-and-parliament-funkadelic-funky-new-years-masquerade-ball-feat-dj-soul-sister/Event?oid=2818331">
+                  George Clinton & Parliament Funkadelic Funky New Year's Masquerade Ball feat. DJ Soul Sister
+                </a>
+                
+              </h3>
+              
+                <span class="eventPickDate">Tue., Dec. 29, 9 p.m. and Wed., Dec. 30, 9 p.m.</span><br />
+              
+              
+              <span class="eventCategories general"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1228603" rel="tag">General</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2053275" rel="tag">Funk</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2823926" rel="tag">New Year's Eve 2016</a> <div class="FeaturesIcons">
+<a href="/gambit/EventSearch?feature=Gambit%20Pick" class="FeaturesIcons_gambit_pick" title="Gambit Pick"><span>Gambit Pick</span></a>
+<a href="/gambit/EventSearch?feature=Members%20Pick" class="FeaturesIcons_members_pick" title="Members Pick"><span>Members Pick</span></a>
+</div></span><br>
+              <p class="descripTxt">
+                The P-Funk bandleader returns to New Orleans to ring in the New Year with a two-night bender. The reinvigorated 74-year-old performer and his massive band host a “masquerade
+                
+                &hellip; &nbsp; <a href="http://www.bestofneworleans.com/gambit/george-clinton-and-parliament-funkadelic-funky-new-years-masquerade-ball-feat-dj-soul-sister/Event?oid=2818331" class="readmore">Read more &raquo;</a>
+                
+                  
+              </p>
+            </div><!-- end eventPickDetails -->
+
+            
+              <div class="listingLocation">
+                @ <a href="http://www.bestofneworleans.com/gambit/tipitina_s/Location?oid=1273795">Tipitina's</a><br />
+                501 Napoleon Ave. 
+                <span class="locationRegion"><a href="http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223330">Uptown</a></span>
+                (<a href="http://www.bestofneworleans.com/gambit/Map?oid=oid%3A1273795">map</a>)<br />
+              </div><!-- end listingLocation -->
+            
+          </div><!-- end eventPickText -->
+        </div><!-- end eventPickInformation -->
+        <p class="staffpickLink"><a href="http://www.bestofneworleans.com/gambit/EventSearch?feature=Gambit%20Pick">All Gambit Picks &raquo;</a></p>
+      </div><!-- end listing -->
+    </div><!-- end EventListing -->
+    
+      
+      <div class="EventListing clearfix scrollerItem"
+         id="event2837845"
+         data-objid="2837845"
+         data-body="&lt;div class=&quot;listing&quot;&gt;
+        &lt;div class=&quot;eventPickInformation&quot; style=&quot;position: relative;&quot;&gt;
+          &lt;div class=&quot;staffPickImage&quot;&gt;
+            
+              
+              &lt;a href=&quot;http://www.bestofneworleans.com/gambit/sugar-bowl/Event?oid=2837845&quot;&gt;&lt;img src=&quot;/images/eventDefault.jpg&quot; alt=&quot;Sugar Bowl&quot; /&gt;&lt;/a&gt;              
+            
+          &lt;/div&gt;&lt;!-- end staffpickImage --&gt;
+          &lt;div class=&quot;eventPickText&quot;&gt;
+            &lt;div class=&quot;eventPickDetails&quot;&gt;
+              &lt;h3 class=&quot;eventTitle&quot;&gt;
+                &lt;a href=&quot;http://www.bestofneworleans.com/gambit/sugar-bowl/Event?oid=2837845&quot;&gt;
+                  Sugar Bowl
+                &lt;/a&gt;
+                
+              &lt;/h3&gt;
+              
+                &lt;span class=&quot;eventPickDate&quot;&gt;Fri., Jan. 1, 7:30 p.m.&lt;/span&gt;&lt;br /&gt;
+              
+              
+              &lt;span class=&quot;eventCategories sports&quot;&gt;&lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1405138&quot; rel=&quot;tag&quot;&gt;Sports&lt;/a&gt;, &lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222890&quot; rel=&quot;tag&quot;&gt;Events&lt;/a&gt; &lt;div class=&quot;FeaturesIcons&quot;&gt;
+&lt;a href=&quot;/gambit/EventSearch?feature=Gambit%20Pick&quot; class=&quot;FeaturesIcons_gambit_pick&quot; title=&quot;Gambit Pick&quot;&gt;&lt;span&gt;Gambit Pick&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/span&gt;&lt;br&gt;
+              &lt;p class=&quot;descripTxt&quot;&gt;
+                The Oklahoma State Cowboys and the Ole Miss Rebels compete in the 82nd annual Allstate Sugar Bowl.
+                
+                
+                &lt;br&gt;&lt;span class=&quot;price&quot;&gt;&lt;/span&gt; &lt;a href=&quot;http://www.allstatesugarbowl.org/site.php&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/icons/ticketIcons_ticketGeneric.gif&quot; border=&quot;0&quot; alt=&quot;Buy Tickets&quot; title=&quot;Buy Tickets&quot;&gt;&lt;/a&gt;                
+                  
+              &lt;/p&gt;
+            &lt;/div&gt;&lt;!-- end eventPickDetails --&gt;
+
+            
+              &lt;div class=&quot;listingLocation&quot;&gt;
+                @ &lt;a href=&quot;http://www.bestofneworleans.com/gambit/mercedes_benz_superdome/Location?oid=1273647&quot;&gt;Mercedes-Benz Superdome&lt;/a&gt;&lt;br /&gt;
+                1500 Poydras St. 
+                &lt;span class=&quot;locationRegion&quot;&gt;&lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223319&quot;&gt;Central Business District&lt;/a&gt;&lt;/span&gt;
+                (&lt;a href=&quot;http://www.bestofneworleans.com/gambit/Map?oid=oid%3A1273647&quot;&gt;map&lt;/a&gt;)&lt;br /&gt;
+              &lt;/div&gt;&lt;!-- end listingLocation --&gt;
+            
+          &lt;/div&gt;&lt;!-- end eventPickText --&gt;
+        &lt;/div&gt;&lt;!-- end eventPickInformation --&gt;
+        &lt;p class=&quot;staffpickLink&quot;&gt;&lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?feature=Gambit%20Pick&quot;&gt;All Gambit Picks &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- end listing --&gt;"
+         style="display: none; position: relative;border:0 none;">
+      <div class="listing">
+        <div class="eventPickInformation" style="position: relative;">
+          <div class="staffPickImage">
+            
+              
+              <a href="http://www.bestofneworleans.com/gambit/sugar-bowl/Event?oid=2837845"><img src="/images/eventDefault.jpg" alt="Sugar Bowl" /></a>              
+            
+          </div><!-- end staffpickImage -->
+          <div class="eventPickText">
+            <div class="eventPickDetails">
+              <h3 class="eventTitle">
+                <a href="http://www.bestofneworleans.com/gambit/sugar-bowl/Event?oid=2837845">
+                  Sugar Bowl
+                </a>
+                
+              </h3>
+              
+                <span class="eventPickDate">Fri., Jan. 1, 7:30 p.m.</span><br />
+              
+              
+              <span class="eventCategories sports"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1405138" rel="tag">Sports</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222890" rel="tag">Events</a> <div class="FeaturesIcons">
+<a href="/gambit/EventSearch?feature=Gambit%20Pick" class="FeaturesIcons_gambit_pick" title="Gambit Pick"><span>Gambit Pick</span></a>
+</div></span><br>
+              <p class="descripTxt">
+                The Oklahoma State Cowboys and the Ole Miss Rebels compete in the 82nd annual Allstate Sugar Bowl.
+                
+                
+                <br><span class="price"></span> <a href="http://www.allstatesugarbowl.org/site.php" target="_blank"><img src="/images/icons/ticketIcons_ticketGeneric.gif" border="0" alt="Buy Tickets" title="Buy Tickets"></a>                
+                  
+              </p>
+            </div><!-- end eventPickDetails -->
+
+            
+              <div class="listingLocation">
+                @ <a href="http://www.bestofneworleans.com/gambit/mercedes_benz_superdome/Location?oid=1273647">Mercedes-Benz Superdome</a><br />
+                1500 Poydras St. 
+                <span class="locationRegion"><a href="http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223319">Central Business District</a></span>
+                (<a href="http://www.bestofneworleans.com/gambit/Map?oid=oid%3A1273647">map</a>)<br />
+              </div><!-- end listingLocation -->
+            
+          </div><!-- end eventPickText -->
+        </div><!-- end eventPickInformation -->
+        <p class="staffpickLink"><a href="http://www.bestofneworleans.com/gambit/EventSearch?feature=Gambit%20Pick">All Gambit Picks &raquo;</a></p>
+      </div><!-- end listing -->
+    </div><!-- end EventListing -->
+    
+      
+      <div class="EventListing clearfix scrollerItem"
+         id="event2791320"
+         data-objid="2791320"
+         data-body="&lt;div class=&quot;listing&quot;&gt;
+        &lt;div class=&quot;eventPickInformation&quot; style=&quot;position: relative;&quot;&gt;
+          &lt;div class=&quot;staffPickImage&quot;&gt;
+            
+              &lt;a href=&quot;http://www.bestofneworleans.com/gambit/photonola-2015/Event?oid=2791320&quot;&gt;&lt;img src=&quot;http://media2.fdncms.com/gambit/imager/u/review/2824757/tumblr_npa4z7cwra1qkfmxeo1_500.gif&quot; alt=&quot;PhotoNOLA 2015&quot; /&gt;&lt;/a&gt;
+            
+          &lt;/div&gt;&lt;!-- end staffpickImage --&gt;
+          &lt;div class=&quot;eventPickText&quot;&gt;
+            &lt;div class=&quot;eventPickDetails&quot;&gt;
+              &lt;h3 class=&quot;eventTitle&quot;&gt;
+                &lt;a href=&quot;http://www.bestofneworleans.com/gambit/photonola-2015/Event?oid=2791320&quot;&gt;
+                  PhotoNOLA 2015
+                &lt;/a&gt;
+                
+              &lt;/h3&gt;
+              
+                &lt;span class=&quot;eventPickDate&quot;&gt;Through Dec. 31&lt;/span&gt;&lt;br /&gt;
+              
+              
+              &lt;span class=&quot;eventCategories happenings&quot;&gt;&lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2513753&quot; rel=&quot;tag&quot;&gt;Happenings&lt;/a&gt;, &lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222890&quot; rel=&quot;tag&quot;&gt;Events&lt;/a&gt; &lt;div class=&quot;FeaturesIcons&quot;&gt;
+&lt;a href=&quot;/gambit/EventSearch?feature=Gambit%20Pick&quot; class=&quot;FeaturesIcons_gambit_pick&quot; title=&quot;Gambit Pick&quot;&gt;&lt;span&gt;Gambit Pick&lt;/span&gt;&lt;/a&gt;
+&lt;a href=&quot;/gambit/EventSearch?feature=Members%20Pick&quot; class=&quot;FeaturesIcons_members_pick&quot; title=&quot;Members Pick&quot;&gt;&lt;span&gt;Members Pick&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/span&gt;&lt;br&gt;
+              &lt;p class=&quot;descripTxt&quot;&gt;
+                The annual photography festival features more than 50 exhibitions, as well as lectures, gallery talks, workshops and a benefit party. Many exhibitions are free and on view through
+                
+                &amp;hellip; &amp;nbsp; &lt;a href=&quot;http://www.bestofneworleans.com/gambit/photonola-2015/Event?oid=2791320&quot; class=&quot;readmore&quot;&gt;Read more &amp;raquo;&lt;/a&gt;
+                
+                  
+              &lt;/p&gt;
+            &lt;/div&gt;&lt;!-- end eventPickDetails --&gt;
+
+            
+              &lt;div class=&quot;listingLocation&quot;&gt;
+                @ &lt;a href=&quot;http://www.bestofneworleans.com/gambit/various_locations/Location?oid=1285294&quot;&gt;Various locations&lt;/a&gt;&lt;br /&gt;
+                New Orleans 
+                &lt;span class=&quot;locationRegion&quot;&gt;&lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223320&quot;&gt;Citywide&lt;/a&gt;&lt;/span&gt;
+                (&lt;a href=&quot;http://www.bestofneworleans.com/gambit/Map?oid=oid%3A1285294&quot;&gt;map&lt;/a&gt;)&lt;br /&gt;
+              &lt;/div&gt;&lt;!-- end listingLocation --&gt;
+            
+          &lt;/div&gt;&lt;!-- end eventPickText --&gt;
+        &lt;/div&gt;&lt;!-- end eventPickInformation --&gt;
+        &lt;p class=&quot;staffpickLink&quot;&gt;&lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?feature=Gambit%20Pick&quot;&gt;All Gambit Picks &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- end listing --&gt;"
+         style="display: none; position: relative;border:0 none;">
+      <div class="listing">
+        <div class="eventPickInformation" style="position: relative;">
+          <div class="staffPickImage">
+            
+              <a href="http://www.bestofneworleans.com/gambit/photonola-2015/Event?oid=2791320"><img src="http://media2.fdncms.com/gambit/imager/u/review/2824757/tumblr_npa4z7cwra1qkfmxeo1_500.gif" alt="PhotoNOLA 2015" /></a>
+            
+          </div><!-- end staffpickImage -->
+          <div class="eventPickText">
+            <div class="eventPickDetails">
+              <h3 class="eventTitle">
+                <a href="http://www.bestofneworleans.com/gambit/photonola-2015/Event?oid=2791320">
+                  PhotoNOLA 2015
+                </a>
+                
+              </h3>
+              
+                <span class="eventPickDate">Through Dec. 31</span><br />
+              
+              
+              <span class="eventCategories happenings"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2513753" rel="tag">Happenings</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222890" rel="tag">Events</a> <div class="FeaturesIcons">
+<a href="/gambit/EventSearch?feature=Gambit%20Pick" class="FeaturesIcons_gambit_pick" title="Gambit Pick"><span>Gambit Pick</span></a>
+<a href="/gambit/EventSearch?feature=Members%20Pick" class="FeaturesIcons_members_pick" title="Members Pick"><span>Members Pick</span></a>
+</div></span><br>
+              <p class="descripTxt">
+                The annual photography festival features more than 50 exhibitions, as well as lectures, gallery talks, workshops and a benefit party. Many exhibitions are free and on view through
+                
+                &hellip; &nbsp; <a href="http://www.bestofneworleans.com/gambit/photonola-2015/Event?oid=2791320" class="readmore">Read more &raquo;</a>
+                
+                  
+              </p>
+            </div><!-- end eventPickDetails -->
+
+            
+              <div class="listingLocation">
+                @ <a href="http://www.bestofneworleans.com/gambit/various_locations/Location?oid=1285294">Various locations</a><br />
+                New Orleans 
+                <span class="locationRegion"><a href="http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223320">Citywide</a></span>
+                (<a href="http://www.bestofneworleans.com/gambit/Map?oid=oid%3A1285294">map</a>)<br />
+              </div><!-- end listingLocation -->
+            
+          </div><!-- end eventPickText -->
+        </div><!-- end eventPickInformation -->
+        <p class="staffpickLink"><a href="http://www.bestofneworleans.com/gambit/EventSearch?feature=Gambit%20Pick">All Gambit Picks &raquo;</a></p>
+      </div><!-- end listing -->
+    </div><!-- end EventListing -->
+    
+      
+      <div class="EventListing clearfix scrollerItem"
+         id="event2769234"
+         data-objid="2769234"
+         data-body="&lt;div class=&quot;listing&quot;&gt;
+        &lt;div class=&quot;eventPickInformation&quot; style=&quot;position: relative;&quot;&gt;
+          &lt;div class=&quot;staffPickImage&quot;&gt;
+            
+              &lt;a href=&quot;http://www.bestofneworleans.com/gambit/nola-christmasfest/Event?oid=2769234&quot;&gt;&lt;img src=&quot;http://media1.fdncms.com/gambit/imager/u/review/2830969/skaters-1024x519.jpg&quot; alt=&quot;NOLA ChristmasFest&quot; /&gt;&lt;/a&gt;
+            
+          &lt;/div&gt;&lt;!-- end staffpickImage --&gt;
+          &lt;div class=&quot;eventPickText&quot;&gt;
+            &lt;div class=&quot;eventPickDetails&quot;&gt;
+              &lt;h3 class=&quot;eventTitle&quot;&gt;
+                &lt;a href=&quot;http://www.bestofneworleans.com/gambit/nola-christmasfest/Event?oid=2769234&quot;&gt;
+                  NOLA ChristmasFest
+                &lt;/a&gt;
+                
+              &lt;/h3&gt;
+              
+                &lt;span class=&quot;eventPickDate&quot;&gt;Through Dec. 27&lt;/span&gt;&lt;br /&gt;
+              
+              
+              &lt;span class=&quot;eventCategories events&quot;&gt;&lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222890&quot; rel=&quot;tag&quot;&gt;Events&lt;/a&gt;, &lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2802707&quot; rel=&quot;tag&quot;&gt;Holiday Season 2015&lt;/a&gt;, &lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222889&quot; rel=&quot;tag&quot;&gt;Family and Kids&lt;/a&gt;, &lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2501722&quot; rel=&quot;tag&quot;&gt;Festivals&lt;/a&gt; &lt;div class=&quot;FeaturesIcons&quot;&gt;
+&lt;a href=&quot;/gambit/EventSearch?feature=Gambit%20Pick&quot; class=&quot;FeaturesIcons_gambit_pick&quot; title=&quot;Gambit Pick&quot;&gt;&lt;span&gt;Gambit Pick&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/span&gt;&lt;br&gt;
+              &lt;p class=&quot;descripTxt&quot;&gt;
+                The indoor holiday festival features an ice-skating rink, amusement rides, North Pole characters, Christmas trees decorated by local organizations, light displays and more. General admission starts at $5;
+                
+                &amp;hellip; &amp;nbsp; &lt;a href=&quot;http://www.bestofneworleans.com/gambit/nola-christmasfest/Event?oid=2769234&quot; class=&quot;readmore&quot;&gt;Read more &amp;raquo;&lt;/a&gt;
+                
+                  
+              &lt;/p&gt;
+            &lt;/div&gt;&lt;!-- end eventPickDetails --&gt;
+
+            
+              &lt;div class=&quot;listingLocation&quot;&gt;
+                @ &lt;a href=&quot;http://www.bestofneworleans.com/gambit/ernest_n_morial_convention_center/Location?oid=1273688&quot;&gt;Ernest N. Morial Convention Center&lt;/a&gt;&lt;br /&gt;
+                Convention Center Theater, 900 Convention Center Blvd. 
+                &lt;span class=&quot;locationRegion&quot;&gt;&lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223329&quot;&gt;Warehouse District&lt;/a&gt;&lt;/span&gt;
+                (&lt;a href=&quot;http://www.bestofneworleans.com/gambit/Map?oid=oid%3A1273688&quot;&gt;map&lt;/a&gt;)&lt;br /&gt;
+              &lt;/div&gt;&lt;!-- end listingLocation --&gt;
+            
+          &lt;/div&gt;&lt;!-- end eventPickText --&gt;
+        &lt;/div&gt;&lt;!-- end eventPickInformation --&gt;
+        &lt;p class=&quot;staffpickLink&quot;&gt;&lt;a href=&quot;http://www.bestofneworleans.com/gambit/EventSearch?feature=Gambit%20Pick&quot;&gt;All Gambit Picks &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- end listing --&gt;"
+         style="display: none; position: relative;border:0 none;">
+      <div class="listing">
+        <div class="eventPickInformation" style="position: relative;">
+          <div class="staffPickImage">
+            
+              <a href="http://www.bestofneworleans.com/gambit/nola-christmasfest/Event?oid=2769234"><img src="http://media1.fdncms.com/gambit/imager/u/review/2830969/skaters-1024x519.jpg" alt="NOLA ChristmasFest" /></a>
+            
+          </div><!-- end staffpickImage -->
+          <div class="eventPickText">
+            <div class="eventPickDetails">
+              <h3 class="eventTitle">
+                <a href="http://www.bestofneworleans.com/gambit/nola-christmasfest/Event?oid=2769234">
+                  NOLA ChristmasFest
+                </a>
+                
+              </h3>
+              
+                <span class="eventPickDate">Through Dec. 27</span><br />
+              
+              
+              <span class="eventCategories events"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222890" rel="tag">Events</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2802707" rel="tag">Holiday Season 2015</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222889" rel="tag">Family and Kids</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2501722" rel="tag">Festivals</a> <div class="FeaturesIcons">
+<a href="/gambit/EventSearch?feature=Gambit%20Pick" class="FeaturesIcons_gambit_pick" title="Gambit Pick"><span>Gambit Pick</span></a>
+</div></span><br>
+              <p class="descripTxt">
+                The indoor holiday festival features an ice-skating rink, amusement rides, North Pole characters, Christmas trees decorated by local organizations, light displays and more. General admission starts at $5;
+                
+                &hellip; &nbsp; <a href="http://www.bestofneworleans.com/gambit/nola-christmasfest/Event?oid=2769234" class="readmore">Read more &raquo;</a>
+                
+                  
+              </p>
+            </div><!-- end eventPickDetails -->
+
+            
+              <div class="listingLocation">
+                @ <a href="http://www.bestofneworleans.com/gambit/ernest_n_morial_convention_center/Location?oid=1273688">Ernest N. Morial Convention Center</a><br />
+                Convention Center Theater, 900 Convention Center Blvd. 
+                <span class="locationRegion"><a href="http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223329">Warehouse District</a></span>
+                (<a href="http://www.bestofneworleans.com/gambit/Map?oid=oid%3A1273688">map</a>)<br />
+              </div><!-- end listingLocation -->
+            
+          </div><!-- end eventPickText -->
+        </div><!-- end eventPickInformation -->
+        <p class="staffpickLink"><a href="http://www.bestofneworleans.com/gambit/EventSearch?feature=Gambit%20Pick">All Gambit Picks &raquo;</a></p>
+      </div><!-- end listing -->
+    </div><!-- end EventListing -->
+    </div>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+function expandSort(e){
+    jQuery(e).toggleClass("active");
+    jQuery("div.searchedFor ul.narrowOptionsBar").slideToggle("fast");
+}
+</script>
+
+<div class="searchedFor">
+  <div class="sortBar">
+    <span class="sortBarHeader">
+      <a href="javascript://sort options" onClick="expandSort(this); return false;">Sorting by
+        
+          Date
+        
+      </a>
+    </span>
+    <ul class="narrowOptionsBar" style="display:none;">
+      <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922&amp;sortType=date">Date</a></li>
+      <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922&amp;sortType=title">Title</a></li>
+      <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922&amp;sortType=location">Venue/Place</a></li>
+      <li><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922&amp;sortType=shared">Most&nbsp;Shared</a></li>
+    </ul>
+  </div>
+
+  <h3>Events Calendar Next 7 Days </h3>
+</div><!-- end searchInfoBar -->
+
+<div id="searchResults">
+  
+
+  
+      <div class="results_cont">
+        <div class="listingsResultCount">132 total results</div>
+        
+    
+    
+
+    
+    
+
+    
+
+    <div class="EventListing clearfix" id="event2609265">
+    <div class="listing">
+      
+      <h3 class="cabaret__burlesque___variety">
+        <span class="longOnly"><div class="FeaturesIcons">
+<a href="/gambit/EventSearch?feature=Members%20Pick" class="FeaturesIcons_members_pick" title="Members Pick"><span>Members Pick</span></a>
+</div></span>
+        <a href="http://www.bestofneworleans.com/gambit/whiskey-and-rhinestones/Event?oid=2609265">
+        
+          Whiskey & Rhinestones
+        
+        </a>
+        
+      </h3>
+
+      
+
+      
+
+      
+         Thursdays, 9 p.m.<br>
+      
+      
+      
+      
+
+      
+      <span class="eventCategories cabaret__burlesque___variety"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222897" class="cabaret__burlesque___variety" rel="tag">Cabaret, Burlesque & Variety</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2823926" class="new_year_s_eve_2016" rel="tag">New Year's Eve 2016</a></span>
+
+      
+        <p class="descripTxt">
+           
+          Bella Blue hosts the burlesque show. Dec. 31 features a special New Year's Eve performance. Regular tickets $10. Visit <a href="www.thebellalounge.com">www.thebellalounge.com</a> for details.
+
+          <span class="price"></span>
+
+          
+        </p>
+      
+      
+      
+      
+      <div></div>
+      
+    </div><!-- end listing -->
+
+    
+
+    
+      <div class="listingLocation"> 
+        <a href="http://www.bestofneworleans.com/gambit/gravier_street_social/Location?oid=2415901">Gravier Street Social</a> 
+        (<a href="http://www.bestofneworleans.com/gambit/Map?oid=2415901">map</a>)<br />
+        523 Gravier St.<br />
+        <span class="locationRegion"><a href="http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223319">Central Business District</a></span>
+        
+          <br /><img src="/images/icons/phone.gif" alt="phone" /> (504) 941-7629<br />
+        
+        
+       
+      </div><!-- end listingLocation -->   
+    
+    
+    
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+  
+
+
+      <div class="tinyTools">
+        <h3>Tools</h3>
+        <ul>
+          <li class="l0">
+            
+
+
+  <a href="javascript://RemindMe" class="toggleActivator reminderAction requiresLogin">Remind Me</a>
+  <div class="togglePanel" data-toolsoid="2609265" data-toolsajaxmacro="reminderForm" style="display:none">
+    <div class="loading">Loading&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+</li> <li class="l0">
+
+
+  <a class="toggleActivator saveAction requiresLogin" href="http://posting.bestofneworleans.com/gambit/Profile/MyFavorites?add=2609265">
+    Add to favorites
+  </a>
+  <div class="togglePanel" data-toolsoid="2609265" data-toolsajaxmacro="addObject" style="display:none">
+    <div class="loading">Saving&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+
+
+</li> <li class="l0">
+
+
+  <a class="icalAction" href="http://www.bestofneworleans.com/gambit/Tools/AddToiCal.ics?oid=2609265">Add to iCal</a>
+</li> <li class="l0">
+
+<a class="toggleActivator saveAction listAction requiresLogin" href="javascript://CreateList">Add to Custom List</a>
+<div class="togglePanel" data-toolsoid="2609265" data-toolsajaxmacro="generateList" style="display:none">
+  <div class="loading">Loading&hellip;</div>
+  <div class="ajaxUpdater" style="display:none"></div>
+</div>
+
+          </li>
+        </ul>
+      </div><!-- end tinyTools -->
+    
+  </div><!-- end EventListing -->
+
+
+    
+
+    
+    
+
+    
+    
+
+    
+
+    <div class="EventListing clearfix" id="event2782397">
+    <div class="listing">
+      
+      <h3 class="events">
+        <span class="longOnly"><div class="FeaturesIcons">
+<a href="/gambit/EventSearch?feature=Members%20Pick" class="FeaturesIcons_members_pick" title="Members Pick"><span>Members Pick</span></a>
+</div></span>
+        <a href="http://www.bestofneworleans.com/gambit/magazine-street-art-market/Event?oid=2782397">
+        
+          Magazine Street Art Market
+        
+        </a>
+        
+      </h3>
+
+      
+
+      
+
+      
+         Fridays, 6-11 p.m. and Saturdays, 11 a.m.-4 p.m.<br>
+      
+      
+      
+      
+
+      
+      <span class="eventCategories events"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222890" class="events" rel="tag">Events</a></span>
+
+      
+        <p class="descripTxt">
+           
+          Local artists sell crafts at the weekend market in Dat Dog's courtyard.
+
+          <span class="price"></span>
+
+          
+        </p>
+      
+      
+      
+      
+      <div></div>
+      
+    </div><!-- end listing -->
+
+    
+
+    
+      <div class="listingLocation"> 
+        <a href="http://www.bestofneworleans.com/gambit/dat_dog/Location?oid=2441634">Dat Dog</a> 
+        (<a href="http://www.bestofneworleans.com/gambit/Map?oid=2441634">map</a>)<br />
+        3336 Magazine St.<br />
+        <span class="locationRegion"><a href="http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223330">Uptown</a></span>
+        
+          <br /><img src="/images/icons/phone.gif" alt="phone" /> (504) 324-2226<br />
+        
+        
+       
+      </div><!-- end listingLocation -->   
+    
+    
+    
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+  
+
+
+      <div class="tinyTools">
+        <h3>Tools</h3>
+        <ul>
+          <li class="l0">
+            
+
+
+  <a href="javascript://RemindMe" class="toggleActivator reminderAction requiresLogin">Remind Me</a>
+  <div class="togglePanel" data-toolsoid="2782397" data-toolsajaxmacro="reminderForm" style="display:none">
+    <div class="loading">Loading&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+</li> <li class="l0">
+
+
+  <a class="toggleActivator saveAction requiresLogin" href="http://posting.bestofneworleans.com/gambit/Profile/MyFavorites?add=2782397">
+    Add to favorites
+  </a>
+  <div class="togglePanel" data-toolsoid="2782397" data-toolsajaxmacro="addObject" style="display:none">
+    <div class="loading">Saving&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+
+
+</li> <li class="l0">
+
+
+  <a class="icalAction" href="http://www.bestofneworleans.com/gambit/Tools/AddToiCal.ics?oid=2782397">Add to iCal</a>
+</li> <li class="l0">
+
+<a class="toggleActivator saveAction listAction requiresLogin" href="javascript://CreateList">Add to Custom List</a>
+<div class="togglePanel" data-toolsoid="2782397" data-toolsajaxmacro="generateList" style="display:none">
+  <div class="loading">Loading&hellip;</div>
+  <div class="ajaxUpdater" style="display:none"></div>
+</div>
+
+          </li>
+        </ul>
+      </div><!-- end tinyTools -->
+    
+  </div><!-- end EventListing -->
+
+
+    
+
+    
+    
+
+    
+    
+
+    
+
+    <div class="EventListing clearfix" id="event2753355">
+    <div class="listing">
+      
+      <h3 class="general">
+        <span class="longOnly"></span>
+        <a href="http://www.bestofneworleans.com/gambit/new-orleans-swinging-gypsies/Event?oid=2753355">
+        
+          New Orleans Swinging Gypsies
+        
+        </a>
+        
+      </h3>
+
+      
+
+      
+
+      
+         Thu., Dec. 31, 6:30 p.m.<br>
+      
+      
+      
+      
+
+      
+      <span class="eventCategories general"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1228603" class="general" rel="tag">General</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2053270" class="jazz" rel="tag">Jazz</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2823926" class="new_year_s_eve_2016" rel="tag">New Year's Eve 2016</a></span>
+
+      
+      
+      
+      
+      <div></div>
+      
+    </div><!-- end listing -->
+
+    
+
+    
+      <div class="listingLocation"> 
+        <a href="http://www.bestofneworleans.com/gambit/bamboula_s/Location?oid=2417350">Bamboula's</a> 
+        (<a href="http://www.bestofneworleans.com/gambit/Map?oid=2417350">map</a>)<br />
+        514 Frenchmen St.<br />
+        <span class="locationRegion"><a href="http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223316">Faubourg Marigny</a></span>
+        
+          <br /><img src="/images/icons/phone.gif" alt="phone" /> (504) 944-8461<br />
+        
+        
+       
+      </div><!-- end listingLocation -->   
+    
+    
+    
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+  
+
+
+      <div class="tinyTools">
+        <h3>Tools</h3>
+        <ul>
+          <li class="l0">
+            
+
+
+  <a href="javascript://RemindMe" class="toggleActivator reminderAction requiresLogin">Remind Me</a>
+  <div class="togglePanel" data-toolsoid="2753355" data-toolsajaxmacro="reminderForm" style="display:none">
+    <div class="loading">Loading&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+</li> <li class="l0">
+
+
+  <a class="toggleActivator saveAction requiresLogin" href="http://posting.bestofneworleans.com/gambit/Profile/MyFavorites?add=2753355">
+    Add to favorites
+  </a>
+  <div class="togglePanel" data-toolsoid="2753355" data-toolsajaxmacro="addObject" style="display:none">
+    <div class="loading">Saving&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+
+
+</li> <li class="l0">
+
+
+  <a class="icalAction" href="http://www.bestofneworleans.com/gambit/Tools/AddToiCal.ics?oid=2753355">Add to iCal</a>
+</li> <li class="l0">
+
+<a class="toggleActivator saveAction listAction requiresLogin" href="javascript://CreateList">Add to Custom List</a>
+<div class="togglePanel" data-toolsoid="2753355" data-toolsajaxmacro="generateList" style="display:none">
+  <div class="loading">Loading&hellip;</div>
+  <div class="ajaxUpdater" style="display:none"></div>
+</div>
+
+          </li>
+        </ul>
+      </div><!-- end tinyTools -->
+    
+  </div><!-- end EventListing -->
+
+
+    
+
+    
+    
+
+    
+    
+
+    
+
+    <div class="EventListing clearfix" id="event2833240">
+    <div class="listing">
+      
+      <h3 class="general">
+        <span class="longOnly"></span>
+        <a href="http://www.bestofneworleans.com/gambit/music-for-all-ages-feat-red-hot-brass-band/Event?oid=2833240">
+        
+          Music for All Ages feat. Red Hot Brass Band
+        
+        </a>
+        
+      </h3>
+
+      
+
+      
+
+      
+         Sat., Dec. 26, 12 p.m.<br>
+      
+      
+      
+      
+
+      
+      <span class="eventCategories general"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1228603" class="general" rel="tag">General</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222889" class="family_and_kids" rel="tag">Family and Kids</a></span>
+
+      
+      
+      
+      
+      <div></div>
+      
+    </div><!-- end listing -->
+
+    
+
+    
+      <div class="listingLocation"> 
+        <a href="http://www.bestofneworleans.com/gambit/jazz_national_historical_park/Location?oid=1273788">Jazz National Historical Park</a> 
+        (<a href="http://www.bestofneworleans.com/gambit/Map?oid=1273788">map</a>)<br />
+        916 N. Peters St.<br />
+        <span class="locationRegion"><a href="http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223318">French Quarter</a></span>
+        
+          <br /><img src="/images/icons/phone.gif" alt="phone" /> (504) 589-4841<br />
+        
+        
+       
+      </div><!-- end listingLocation -->   
+    
+    
+    
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+  
+
+
+      <div class="tinyTools">
+        <h3>Tools</h3>
+        <ul>
+          <li class="l0">
+            
+
+
+  <a href="javascript://RemindMe" class="toggleActivator reminderAction requiresLogin">Remind Me</a>
+  <div class="togglePanel" data-toolsoid="2833240" data-toolsajaxmacro="reminderForm" style="display:none">
+    <div class="loading">Loading&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+</li> <li class="l0">
+
+
+  <a class="toggleActivator saveAction requiresLogin" href="http://posting.bestofneworleans.com/gambit/Profile/MyFavorites?add=2833240">
+    Add to favorites
+  </a>
+  <div class="togglePanel" data-toolsoid="2833240" data-toolsajaxmacro="addObject" style="display:none">
+    <div class="loading">Saving&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+
+
+</li> <li class="l0">
+
+
+  <a class="icalAction" href="http://www.bestofneworleans.com/gambit/Tools/AddToiCal.ics?oid=2833240">Add to iCal</a>
+</li> <li class="l0">
+
+<a class="toggleActivator saveAction listAction requiresLogin" href="javascript://CreateList">Add to Custom List</a>
+<div class="togglePanel" data-toolsoid="2833240" data-toolsajaxmacro="generateList" style="display:none">
+  <div class="loading">Loading&hellip;</div>
+  <div class="ajaxUpdater" style="display:none"></div>
+</div>
+
+          </li>
+        </ul>
+      </div><!-- end tinyTools -->
+    
+  </div><!-- end EventListing -->
+
+
+    
+
+    
+    
+
+    
+    
+
+    
+
+    <div class="EventListing clearfix" id="event2827924">
+    <div class="listing">
+      
+      <h3 class="dance">
+        <span class="longOnly"><div class="FeaturesIcons">
+<a href="/gambit/EventSearch?feature=Gambit%20Pick" class="FeaturesIcons_gambit_pick" title="Gambit Pick"><span>Gambit Pick</span></a>
+</div></span>
+        <a href="http://www.bestofneworleans.com/gambit/great-russian-nutcracker/Event?oid=2827924">
+        
+          Great Russian Nutcracker
+        
+        </a>
+        
+      </h3>
+
+      
+
+      
+
+      
+         Sat., Dec. 26, 3 & 7 p.m.<br>
+      
+      
+      
+      
+
+      
+      <span class="eventCategories dance"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222882" class="dance" rel="tag">Dance</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2802707" class="holiday_season_2015" rel="tag">Holiday Season 2015</a></span>
+
+      
+        <p class="descripTxt">
+           
+          The Moscow Ballet’s production of the holiday classic features a troupe of 40 dancers, 10-foot puppets, vibrant costumes and more. At 3 p.m. and 7 p.m. at Saenger Theatre. | Sat. Dec. 26
+
+          <span class="price"></span>
+
+          
+        </p>
+      
+      
+      
+      
+      <div></div>
+      
+    </div><!-- end listing -->
+
+    
+
+    
+      <div class="listingLocation"> 
+        <a href="http://www.bestofneworleans.com/gambit/saenger_theatre/Location?oid=2214526">Saenger Theatre</a> 
+        (<a href="http://www.bestofneworleans.com/gambit/Map?oid=2214526">map</a>)<br />
+        1111 Canal St.<br />
+        <span class="locationRegion"><a href="http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223318">French Quarter</a></span>
+        
+          <br /><img src="/images/icons/phone.gif" alt="phone" /> (504) 287-0351<br />
+        
+        
+       <a href="http://www.bestofneworleans.com/gambit/great-russian-nutcracker/Event?oid=2827924"><img src="http://media2.fdncms.com/gambit/imager/u/review/2837834/moscowballet.jpg" alt="Great Russian Nutcracker" class="listingImg" /></a>
+      </div><!-- end listingLocation -->   
+    
+    
+    
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+  
+
+
+      <div class="tinyTools">
+        <h3>Tools</h3>
+        <ul>
+          <li class="l0">
+            
+
+
+  <a href="javascript://RemindMe" class="toggleActivator reminderAction requiresLogin">Remind Me</a>
+  <div class="togglePanel" data-toolsoid="2827924" data-toolsajaxmacro="reminderForm" style="display:none">
+    <div class="loading">Loading&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+</li> <li class="l0">
+
+
+  <a class="toggleActivator saveAction requiresLogin" href="http://posting.bestofneworleans.com/gambit/Profile/MyFavorites?add=2827924">
+    Add to favorites
+  </a>
+  <div class="togglePanel" data-toolsoid="2827924" data-toolsajaxmacro="addObject" style="display:none">
+    <div class="loading">Saving&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+
+
+</li> <li class="l0">
+
+
+  <a class="icalAction" href="http://www.bestofneworleans.com/gambit/Tools/AddToiCal.ics?oid=2827924">Add to iCal</a>
+</li> <li class="l0">
+
+<a class="toggleActivator saveAction listAction requiresLogin" href="javascript://CreateList">Add to Custom List</a>
+<div class="togglePanel" data-toolsoid="2827924" data-toolsajaxmacro="generateList" style="display:none">
+  <div class="loading">Loading&hellip;</div>
+  <div class="ajaxUpdater" style="display:none"></div>
+</div>
+
+          </li>
+        </ul>
+      </div><!-- end tinyTools -->
+    
+  </div><!-- end EventListing -->
+
+
+    
+
+    
+    
+
+    
+    
+
+    
+
+    <div class="EventListing clearfix" id="event2770830">
+    <div class="listing">
+      
+      <h3 class="sports">
+        <span class="longOnly"></span>
+        <a href="http://www.bestofneworleans.com/gambit/pelicans/Event?oid=2770830">
+        
+          Pelicans
+        
+        </a>
+        
+      </h3>
+
+      
+
+      
+
+      
+         Sat., Dec. 26, 6 p.m.<br>
+      
+      
+      
+        <img src="/images/icons/phone.gif" alt="phone" /> (504) 525-4667<br />
+      
+      
+
+      
+      <span class="eventCategories sports"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1405138" class="sports" rel="tag">Sports</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222890" class="events" rel="tag">Events</a></span>
+
+      
+        <p class="descripTxt">
+           
+          The New Orleans Pelicans play the Houston Rockets.
+
+          <span class="price"></span>
+
+          
+        </p>
+      
+      
+      
+        <a href="http://www.nba.com/pelicans" target="_blank">http://www.nba.com/pelicans</a><br />
+      
+      
+      <div><a href="http://www.ticketmaster.com" target="_blank"><img src="/images/icons/ticketIcons_ticketMaster.gif" border="0" alt="Buy from Ticketmaster" title="Ticketmaster"></a></div>
+      
+    </div><!-- end listing -->
+
+    
+
+    
+      <div class="listingLocation"> 
+        <a href="http://www.bestofneworleans.com/gambit/smoothie_king_center/Location?oid=1273587">Smoothie King Center</a> 
+        (<a href="http://www.bestofneworleans.com/gambit/Map?oid=1273587">map</a>)<br />
+        1501 Girod St.<br />
+        <span class="locationRegion"><a href="http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223319">Central Business District</a></span>
+        
+          <br /><img src="/images/icons/phone.gif" alt="phone" /> (504) 587-3663<br />
+        
+        
+       
+      </div><!-- end listingLocation -->   
+    
+    
+    
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+  
+
+
+      <div class="tinyTools">
+        <h3>Tools</h3>
+        <ul>
+          <li class="l0">
+            
+
+
+  <a href="javascript://RemindMe" class="toggleActivator reminderAction requiresLogin">Remind Me</a>
+  <div class="togglePanel" data-toolsoid="2770830" data-toolsajaxmacro="reminderForm" style="display:none">
+    <div class="loading">Loading&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+</li> <li class="l0">
+
+
+  <a class="toggleActivator saveAction requiresLogin" href="http://posting.bestofneworleans.com/gambit/Profile/MyFavorites?add=2770830">
+    Add to favorites
+  </a>
+  <div class="togglePanel" data-toolsoid="2770830" data-toolsajaxmacro="addObject" style="display:none">
+    <div class="loading">Saving&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+
+
+</li> <li class="l0">
+
+
+  <a class="icalAction" href="http://www.bestofneworleans.com/gambit/Tools/AddToiCal.ics?oid=2770830">Add to iCal</a>
+</li> <li class="l0">
+
+<a class="toggleActivator saveAction listAction requiresLogin" href="javascript://CreateList">Add to Custom List</a>
+<div class="togglePanel" data-toolsoid="2770830" data-toolsajaxmacro="generateList" style="display:none">
+  <div class="loading">Loading&hellip;</div>
+  <div class="ajaxUpdater" style="display:none"></div>
+</div>
+
+          </li>
+        </ul>
+      </div><!-- end tinyTools -->
+    
+  </div><!-- end EventListing -->
+
+
+    
+
+    
+    
+
+    
+    
+
+    
+
+    <div class="EventListing clearfix" id="event2513785">
+    <div class="listing">
+      
+      <h3 class="farmers_markets">
+        <span class="longOnly"><div class="FeaturesIcons">
+<a href="/gambit/EventSearch?feature=Members%20Pick" class="FeaturesIcons_members_pick" title="Members Pick"><span>Members Pick</span></a>
+</div></span>
+        <a href="http://www.bestofneworleans.com/gambit/hollygrove-market/Event?oid=2513785">
+        
+          Hollygrove Market
+        
+        </a>
+        
+      </h3>
+
+      
+
+      
+
+      
+         Mondays-Fridays, 10 a.m.-7 p.m. and Saturdays, Sundays, 10 a.m.-5 p.m.<br>
+      
+      
+      
+      
+
+      
+      <span class="eventCategories farmers_markets"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2513758" class="farmers_markets" rel="tag">Farmers Markets</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2227838" class="food_and_drink" rel="tag">Food and Drink</a></span>
+
+      
+        <p class="descripTxt">
+           
+          The urban farm operates a daily fresh market.
+
+          <span class="price"></span>
+
+          
+        </p>
+      
+      
+      
+        <a href="http://www.hollygrovemarket.com" target="_blank">http://www.hollygrovemarket.com</a><br />
+      
+      
+      <div></div>
+      
+    </div><!-- end listing -->
+
+    
+
+    
+      <div class="listingLocation"> 
+        <a href="http://www.bestofneworleans.com/gambit/hollygrove_market_farm/Location?oid=1276405">Hollygrove Market & Farm</a> 
+        (<a href="http://www.bestofneworleans.com/gambit/Map?oid=1276405">map</a>)<br />
+        8301 Olive St.<br />
+        <span class="locationRegion"><a href="http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223336">Carrollton/Riverbend/University</a></span>
+        
+          <br /><img src="/images/icons/phone.gif" alt="phone" /> (504) 483-7037<br />
+        
+        
+       
+      </div><!-- end listingLocation -->   
+    
+    
+    
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+  
+
+
+      <div class="tinyTools">
+        <h3>Tools</h3>
+        <ul>
+          <li class="l0">
+            
+
+
+  <a href="javascript://RemindMe" class="toggleActivator reminderAction requiresLogin">Remind Me</a>
+  <div class="togglePanel" data-toolsoid="2513785" data-toolsajaxmacro="reminderForm" style="display:none">
+    <div class="loading">Loading&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+</li> <li class="l0">
+
+
+  <a class="toggleActivator saveAction requiresLogin" href="http://posting.bestofneworleans.com/gambit/Profile/MyFavorites?add=2513785">
+    Add to favorites
+  </a>
+  <div class="togglePanel" data-toolsoid="2513785" data-toolsajaxmacro="addObject" style="display:none">
+    <div class="loading">Saving&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+
+
+</li> <li class="l0">
+
+
+  <a class="icalAction" href="http://www.bestofneworleans.com/gambit/Tools/AddToiCal.ics?oid=2513785">Add to iCal</a>
+</li> <li class="l0">
+
+<a class="toggleActivator saveAction listAction requiresLogin" href="javascript://CreateList">Add to Custom List</a>
+<div class="togglePanel" data-toolsoid="2513785" data-toolsajaxmacro="generateList" style="display:none">
+  <div class="loading">Loading&hellip;</div>
+  <div class="ajaxUpdater" style="display:none"></div>
+</div>
+
+          </li>
+        </ul>
+      </div><!-- end tinyTools -->
+    
+  </div><!-- end EventListing -->
+
+
+    
+
+    
+    
+
+    
+    
+
+    
+
+    <div class="EventListing clearfix" id="event2412023">
+    <div class="listing">
+      
+      <h3 class="events">
+        <span class="longOnly"><div class="FeaturesIcons">
+<a href="/gambit/EventSearch?feature=Members%20Pick" class="FeaturesIcons_members_pick" title="Members Pick"><span>Members Pick</span></a>
+</div></span>
+        <a href="http://www.bestofneworleans.com/gambit/yoga-at-the-cabildo/Event?oid=2412023">
+        
+          Yoga at the Cabildo
+        
+        </a>
+        
+      </h3>
+
+      
+
+      
+
+      
+         Tuesdays, Thursdays, 7:30 a.m. and Saturdays, 8:30 a.m.<br>
+      
+      
+      
+      
+
+      
+      <span class="eventCategories events"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222890" class="events" rel="tag">Events</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1405139" class="fitness__dance_and_outdoors" rel="tag">Fitness, Dance and Outdoors</a></span>
+
+      
+        <p class="descripTxt">
+           
+          Yogis of all experience levels practice in the Cabildo gallery. Non-members $12.
+
+          <span class="price"></span>
+
+          
+        </p>
+      
+      
+      
+      
+      <div></div>
+      
+    </div><!-- end listing -->
+
+    
+
+    
+      <div class="listingLocation"> 
+        <a href="http://www.bestofneworleans.com/gambit/louisiana_state_museum_cabildo/Location?oid=1274051">Louisiana State Museum Cabildo</a> 
+        (<a href="http://www.bestofneworleans.com/gambit/Map?oid=1274051">map</a>)<br />
+        701 Chartres St.<br />
+        <span class="locationRegion"><a href="http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223318">French Quarter</a></span>
+        
+          <br /><img src="/images/icons/phone.gif" alt="phone" /> (504) 568-6968<br />
+        
+        
+       
+      </div><!-- end listingLocation -->   
+    
+    
+    
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+  
+
+
+      <div class="tinyTools">
+        <h3>Tools</h3>
+        <ul>
+          <li class="l0">
+            
+
+
+  <a href="javascript://RemindMe" class="toggleActivator reminderAction requiresLogin">Remind Me</a>
+  <div class="togglePanel" data-toolsoid="2412023" data-toolsajaxmacro="reminderForm" style="display:none">
+    <div class="loading">Loading&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+</li> <li class="l0">
+
+
+  <a class="toggleActivator saveAction requiresLogin" href="http://posting.bestofneworleans.com/gambit/Profile/MyFavorites?add=2412023">
+    Add to favorites
+  </a>
+  <div class="togglePanel" data-toolsoid="2412023" data-toolsajaxmacro="addObject" style="display:none">
+    <div class="loading">Saving&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+
+
+</li> <li class="l0">
+
+
+  <a class="icalAction" href="http://www.bestofneworleans.com/gambit/Tools/AddToiCal.ics?oid=2412023">Add to iCal</a>
+</li> <li class="l0">
+
+<a class="toggleActivator saveAction listAction requiresLogin" href="javascript://CreateList">Add to Custom List</a>
+<div class="togglePanel" data-toolsoid="2412023" data-toolsajaxmacro="generateList" style="display:none">
+  <div class="loading">Loading&hellip;</div>
+  <div class="ajaxUpdater" style="display:none"></div>
+</div>
+
+          </li>
+        </ul>
+      </div><!-- end tinyTools -->
+    
+  </div><!-- end EventListing -->
+
+
+    
+
+    
+    
+
+    
+    
+
+    
+
+    <div class="EventListing clearfix" id="event2816348">
+    <div class="listing">
+      
+      <h3 class="theater">
+        <span class="longOnly"></span>
+        <a href="http://www.bestofneworleans.com/gambit/a-swingin-christmas/Event?oid=2816348">
+        
+          A Swingin' Christmas
+        
+        </a>
+        
+      </h3>
+
+      
+
+      
+
+      
+         Sundays, 11 a.m. and Saturdays, 8 p.m. Continues through Dec. 26<br>
+      
+      
+      
+      
+
+      
+      <span class="eventCategories theater"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222880" class="theater" rel="tag">Theater</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2802707" class="holiday_season_2015" rel="tag">Holiday Season 2015</a></span>
+
+      
+        <p class="descripTxt">
+           
+          The Victory Belles perform swing versions of holiday hits in a musical revue. Dinner at 6 p.m., show at 8 p.m.; brunch shows at 11 a.m. Tickets start at $30 for the show only.
+
+          <span class="price"></span>
+
+          
+        </p>
+      
+      
+      
+      
+      <div></div>
+      
+    </div><!-- end listing -->
+
+    
+
+    
+      <div class="listingLocation"> 
+        <a href="http://www.bestofneworleans.com/gambit/national_world_war_ii_museum_stage_door_canteen/Location?oid=1276608">National World War II Museum, Stage Door Canteen</a> 
+        (<a href="http://www.bestofneworleans.com/gambit/Map?oid=1276608">map</a>)<br />
+        945 Magazine St.<br />
+        <span class="locationRegion"><a href="http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223329">Warehouse District</a></span>
+        
+          <br /><img src="/images/icons/phone.gif" alt="phone" /> (504) 528-1944<br />
+        
+        
+       
+      </div><!-- end listingLocation -->   
+    
+    
+    
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+  
+
+
+      <div class="tinyTools">
+        <h3>Tools</h3>
+        <ul>
+          <li class="l0">
+            
+
+
+  <a href="javascript://RemindMe" class="toggleActivator reminderAction requiresLogin">Remind Me</a>
+  <div class="togglePanel" data-toolsoid="2816348" data-toolsajaxmacro="reminderForm" style="display:none">
+    <div class="loading">Loading&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+</li> <li class="l0">
+
+
+  <a class="toggleActivator saveAction requiresLogin" href="http://posting.bestofneworleans.com/gambit/Profile/MyFavorites?add=2816348">
+    Add to favorites
+  </a>
+  <div class="togglePanel" data-toolsoid="2816348" data-toolsajaxmacro="addObject" style="display:none">
+    <div class="loading">Saving&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+
+
+</li> <li class="l0">
+
+
+  <a class="icalAction" href="http://www.bestofneworleans.com/gambit/Tools/AddToiCal.ics?oid=2816348">Add to iCal</a>
+</li> <li class="l0">
+
+<a class="toggleActivator saveAction listAction requiresLogin" href="javascript://CreateList">Add to Custom List</a>
+<div class="togglePanel" data-toolsoid="2816348" data-toolsajaxmacro="generateList" style="display:none">
+  <div class="loading">Loading&hellip;</div>
+  <div class="ajaxUpdater" style="display:none"></div>
+</div>
+
+          </li>
+        </ul>
+      </div><!-- end tinyTools -->
+    
+  </div><!-- end EventListing -->
+
+
+    
+
+    
+    
+
+    
+    
+
+    
+
+    <div class="EventListing clearfix" id="event2044489">
+    <div class="listing">
+      
+      <h3 class="events">
+        <span class="longOnly"><div class="FeaturesIcons">
+<a href="/gambit/EventSearch?feature=Members%20Pick" class="FeaturesIcons_members_pick" title="Members Pick"><span>Members Pick</span></a>
+</div></span>
+        <a href="http://www.bestofneworleans.com/gambit/arts-market-of-new-orleans/Event?oid=2044489">
+        
+          Arts Market of New Orleans
+        
+        </a>
+        
+      </h3>
+
+      
+
+      
+
+      
+         Last Saturday of every month<br>
+      
+      
+      
+      
+
+      
+      <span class="eventCategories events"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222890" class="events" rel="tag">Events</a></span>
+
+      
+        <p class="descripTxt">
+           
+          The Arts Council of New Orleans' market features local and handmade goods, food, kids' activities and live music. Visit <a href="www.artsneworleans.org">www.artsneworleans.org</a> for details. 10 a.m. to 4 p.m.
+
+          <span class="price"></span>
+
+          
+        </p>
+      
+      
+      
+      
+      <div></div>
+      
+    </div><!-- end listing -->
+
+    
+
+    
+      <div class="listingLocation"> 
+        <a href="http://www.bestofneworleans.com/gambit/palmer_park/Location?oid=1274559">Palmer Park</a> 
+        (<a href="http://www.bestofneworleans.com/gambit/Map?oid=1274559">map</a>)<br />
+        S. Claiborne and Carrollton avenues<br />
+        <span class="locationRegion"><a href="http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223336">Carrollton/Riverbend/University</a></span>
+        
+        
+       
+      </div><!-- end listingLocation -->   
+    
+    
+    
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+  
+
+
+      <div class="tinyTools">
+        <h3>Tools</h3>
+        <ul>
+          <li class="l0">
+            
+
+
+  <a href="javascript://RemindMe" class="toggleActivator reminderAction requiresLogin">Remind Me</a>
+  <div class="togglePanel" data-toolsoid="2044489" data-toolsajaxmacro="reminderForm" style="display:none">
+    <div class="loading">Loading&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+</li> <li class="l0">
+
+
+  <a class="toggleActivator saveAction requiresLogin" href="http://posting.bestofneworleans.com/gambit/Profile/MyFavorites?add=2044489">
+    Add to favorites
+  </a>
+  <div class="togglePanel" data-toolsoid="2044489" data-toolsajaxmacro="addObject" style="display:none">
+    <div class="loading">Saving&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+
+
+</li> <li class="l0">
+
+
+  <a class="icalAction" href="http://www.bestofneworleans.com/gambit/Tools/AddToiCal.ics?oid=2044489">Add to iCal</a>
+</li> <li class="l0">
+
+<a class="toggleActivator saveAction listAction requiresLogin" href="javascript://CreateList">Add to Custom List</a>
+<div class="togglePanel" data-toolsoid="2044489" data-toolsajaxmacro="generateList" style="display:none">
+  <div class="loading">Loading&hellip;</div>
+  <div class="ajaxUpdater" style="display:none"></div>
+</div>
+
+          </li>
+        </ul>
+      </div><!-- end tinyTools -->
+    
+  </div><!-- end EventListing -->
+
+
+    
+
+    
+    
+
+    
+    
+
+    
+
+    <div class="EventListing clearfix" id="event1339751">
+    <div class="listing">
+      
+      <h3 class="farmers_markets">
+        <span class="longOnly"><div class="FeaturesIcons">
+<a href="/gambit/EventSearch?feature=Members%20Pick" class="FeaturesIcons_members_pick" title="Members Pick"><span>Members Pick</span></a>
+</div></span>
+        <a href="http://www.bestofneworleans.com/gambit/crescent-city-farmers-market/Event?oid=1339751">
+        
+          Crescent City Farmers Market
+        
+        </a>
+        
+      </h3>
+
+      
+
+      
+
+      
+      
+      
+      
+
+      
+      <span class="eventCategories farmers_markets"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2513758" class="farmers_markets" rel="tag">Farmers Markets</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2227838" class="food_and_drink" rel="tag">Food and Drink</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222890" class="events" rel="tag">Events</a></span>
+
+      
+        <p class="descripTxt">
+           
+          The market features produce, flowers and food. 8 a.m. to noon.
+
+          <span class="price"></span>
+
+          
+        </p>
+      
+      
+      
+      
+      <div></div>
+      
+    </div><!-- end listing -->
+
+    
+
+    
+      <div class="listingLocation"> 
+        <a href="http://www.bestofneworleans.com/gambit/magazine_street_market/Location?oid=1998983">Magazine Street Market</a> 
+        (<a href="http://www.bestofneworleans.com/gambit/Map?oid=1998983">map</a>)<br />
+        Magazine and Girod streets<br />
+        <span class="locationRegion"><a href="http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223329">Warehouse District</a></span>
+        
+          <br /><img src="/images/icons/phone.gif" alt="phone" /> (504) 861-5898<br />
+        
+        
+       
+      </div><!-- end listingLocation -->   
+    
+    
+    
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+  
+
+
+      <div class="tinyTools">
+        <h3>Tools</h3>
+        <ul>
+          <li class="l0">
+            
+
+
+  <a href="javascript://RemindMe" class="toggleActivator reminderAction requiresLogin">Remind Me</a>
+  <div class="togglePanel" data-toolsoid="1339751" data-toolsajaxmacro="reminderForm" style="display:none">
+    <div class="loading">Loading&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+</li> <li class="l0">
+
+
+  <a class="toggleActivator saveAction requiresLogin" href="http://posting.bestofneworleans.com/gambit/Profile/MyFavorites?add=1339751">
+    Add to favorites
+  </a>
+  <div class="togglePanel" data-toolsoid="1339751" data-toolsajaxmacro="addObject" style="display:none">
+    <div class="loading">Saving&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+
+
+</li> <li class="l0">
+
+
+  <a class="icalAction" href="http://www.bestofneworleans.com/gambit/Tools/AddToiCal.ics?oid=1339751">Add to iCal</a>
+</li> <li class="l0">
+
+<a class="toggleActivator saveAction listAction requiresLogin" href="javascript://CreateList">Add to Custom List</a>
+<div class="togglePanel" data-toolsoid="1339751" data-toolsajaxmacro="generateList" style="display:none">
+  <div class="loading">Loading&hellip;</div>
+  <div class="ajaxUpdater" style="display:none"></div>
+</div>
+
+          </li>
+        </ul>
+      </div><!-- end tinyTools -->
+    
+  </div><!-- end EventListing -->
+
+
+    
+
+    
+    
+
+    
+    
+
+    
+
+    <div class="EventListing clearfix" id="event2676258">
+    <div class="listing">
+      
+      <h3 class="events">
+        <span class="longOnly"><div class="FeaturesIcons">
+<a href="/gambit/EventSearch?feature=Members%20Pick" class="FeaturesIcons_members_pick" title="Members Pick"><span>Members Pick</span></a>
+</div></span>
+        <a href="http://www.bestofneworleans.com/gambit/family-day/Event?oid=2676258">
+        
+          Family Day
+        
+        </a>
+        
+      </h3>
+
+      
+
+      
+
+      
+         Saturdays<br>
+      
+      
+      
+      
+
+      
+      <span class="eventCategories events"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222890" class="events" rel="tag">Events</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222889" class="family_and_kids" rel="tag">Family and Kids</a></span>
+
+      
+        <p class="descripTxt">
+           
+          Families can enjoy crafts at 10 a.m., jazz story time at 12:30 p.m., a singalong at 1 p.m. and a solo pianist from 2 p.m. to 4 p.m.
+
+          <span class="price"></span>
+
+          
+        </p>
+      
+      
+      
+      
+      <div></div>
+      
+    </div><!-- end listing -->
+
+    
+
+    
+      <div class="listingLocation"> 
+        <a href="http://www.bestofneworleans.com/gambit/new_orleans_jazz_market/Location?oid=2606534">New Orleans Jazz Market</a> 
+        (<a href="http://www.bestofneworleans.com/gambit/Map?oid=2606534">map</a>)<br />
+        1436 Oretha Castle Haley Blvd.<br />
+        <span class="locationRegion"><a href="http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=2514086">Central City</a></span>
+        
+          <br /><img src="/images/icons/phone.gif" alt="phone" /> (504) 301-9006<br />
+        
+        
+       
+      </div><!-- end listingLocation -->   
+    
+    
+    
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+  
+
+
+      <div class="tinyTools">
+        <h3>Tools</h3>
+        <ul>
+          <li class="l0">
+            
+
+
+  <a href="javascript://RemindMe" class="toggleActivator reminderAction requiresLogin">Remind Me</a>
+  <div class="togglePanel" data-toolsoid="2676258" data-toolsajaxmacro="reminderForm" style="display:none">
+    <div class="loading">Loading&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+</li> <li class="l0">
+
+
+  <a class="toggleActivator saveAction requiresLogin" href="http://posting.bestofneworleans.com/gambit/Profile/MyFavorites?add=2676258">
+    Add to favorites
+  </a>
+  <div class="togglePanel" data-toolsoid="2676258" data-toolsajaxmacro="addObject" style="display:none">
+    <div class="loading">Saving&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+
+
+</li> <li class="l0">
+
+
+  <a class="icalAction" href="http://www.bestofneworleans.com/gambit/Tools/AddToiCal.ics?oid=2676258">Add to iCal</a>
+</li> <li class="l0">
+
+<a class="toggleActivator saveAction listAction requiresLogin" href="javascript://CreateList">Add to Custom List</a>
+<div class="togglePanel" data-toolsoid="2676258" data-toolsajaxmacro="generateList" style="display:none">
+  <div class="loading">Loading&hellip;</div>
+  <div class="ajaxUpdater" style="display:none"></div>
+</div>
+
+          </li>
+        </ul>
+      </div><!-- end tinyTools -->
+    
+  </div><!-- end EventListing -->
+
+
+    
+
+    
+    
+
+    
+    
+
+    
+
+    <div class="EventListing clearfix" id="event1667067">
+    <div class="listing">
+      
+      <h3 class="words">
+        <span class="longOnly"><div class="FeaturesIcons">
+<a href="/gambit/EventSearch?feature=Members%20Pick" class="FeaturesIcons_members_pick" title="Members Pick"><span>Members Pick</span></a>
+</div></span>
+        <a href="http://www.bestofneworleans.com/gambit/friends-of-the-new-orleans-public-library-book-sale/Event?oid=1667067">
+        
+          Friends of the New Orleans Public Library book sale
+        
+        </a>
+        
+      </h3>
+
+      
+
+      
+
+      
+        Wednesday and Saturday.<br>
+      
+      
+      
+      
+
+      
+      <span class="eventCategories words"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222894" class="words" rel="tag">Words</a></span>
+
+      
+        <p class="descripTxt">
+           
+          The group hosts twice-weekly sales of books, DVDs, books on tape, LPs and more. 10 a.m. to 2 p.m.
+
+          <span class="price"></span>
+
+          
+        </p>
+      
+      
+      
+      
+      <div></div>
+      
+    </div><!-- end listing -->
+
+    
+
+    
+      <div class="listingLocation"> 
+        <a href="http://www.bestofneworleans.com/gambit/latter_library/Location?oid=1275705">Latter Library</a> 
+        (<a href="http://www.bestofneworleans.com/gambit/Map?oid=1275705">map</a>)<br />
+        5120 St. Charles Ave.<br />
+        <span class="locationRegion"><a href="http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223330">Uptown</a></span>
+        
+          <br /><img src="/images/icons/phone.gif" alt="phone" /> (504) 596-2625<br />
+        
+        
+       
+      </div><!-- end listingLocation -->   
+    
+    
+    
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+  
+
+
+      <div class="tinyTools">
+        <h3>Tools</h3>
+        <ul>
+          <li class="l0">
+            
+
+
+  <a href="javascript://RemindMe" class="toggleActivator reminderAction requiresLogin">Remind Me</a>
+  <div class="togglePanel" data-toolsoid="1667067" data-toolsajaxmacro="reminderForm" style="display:none">
+    <div class="loading">Loading&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+</li> <li class="l0">
+
+
+  <a class="toggleActivator saveAction requiresLogin" href="http://posting.bestofneworleans.com/gambit/Profile/MyFavorites?add=1667067">
+    Add to favorites
+  </a>
+  <div class="togglePanel" data-toolsoid="1667067" data-toolsajaxmacro="addObject" style="display:none">
+    <div class="loading">Saving&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+
+
+</li> <li class="l0">
+
+
+  <a class="icalAction" href="http://www.bestofneworleans.com/gambit/Tools/AddToiCal.ics?oid=1667067">Add to iCal</a>
+</li> <li class="l0">
+
+<a class="toggleActivator saveAction listAction requiresLogin" href="javascript://CreateList">Add to Custom List</a>
+<div class="togglePanel" data-toolsoid="1667067" data-toolsajaxmacro="generateList" style="display:none">
+  <div class="loading">Loading&hellip;</div>
+  <div class="ajaxUpdater" style="display:none"></div>
+</div>
+</li> <li class="l0">
+
+
+  
+    
+      <a href="http://www.bestofneworleans.com/gambit/friends-of-the-new-orleans-public-library-book-sale/Event?oid=1667067#readerComments">
+        Comment/Review&nbsp;(1)
+      </a>
+    
+  
+
+
+
+          </li>
+        </ul>
+      </div><!-- end tinyTools -->
+    
+  </div><!-- end EventListing -->
+
+
+    
+
+    
+    
+
+    
+    
+
+    
+
+    <div class="EventListing clearfix" id="event2513787">
+    <div class="listing">
+      
+      <h3 class="farmers_markets">
+        <span class="longOnly"><div class="FeaturesIcons">
+<a href="/gambit/EventSearch?feature=Members%20Pick" class="FeaturesIcons_members_pick" title="Members Pick"><span>Members Pick</span></a>
+</div></span>
+        <a href="http://www.bestofneworleans.com/gambit/vietnamese-farmers-market/Event?oid=2513787">
+        
+          Vietnamese Farmers Market
+        
+        </a>
+        
+      </h3>
+
+      
+
+      
+
+      
+         Saturdays, 5 a.m.<br>
+      
+      
+      
+      
+
+      
+      <span class="eventCategories farmers_markets"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2513758" class="farmers_markets" rel="tag">Farmers Markets</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2227838" class="food_and_drink" rel="tag">Food and Drink</a></span>
+
+      
+        <p class="descripTxt">
+           
+          Fresh produce, baked goods and live poultry are available at this early morning market.
+
+          <span class="price"></span>
+
+          
+        </p>
+      
+      
+      
+      
+      <div></div>
+      
+    </div><!-- end listing -->
+
+    
+
+    
+      <div class="listingLocation"> 
+        <a href="http://www.bestofneworleans.com/gambit/vietnamese_farmers_market/Location?oid=2513786">Vietnamese Farmers Market</a> 
+        (<a href="http://www.bestofneworleans.com/gambit/Map?oid=2513786">map</a>)<br />
+        14401 Alcee Fortier Blvd.<br />
+        <span class="locationRegion"><a href="http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223343">New Orleans East</a></span>
+        
+        
+       
+      </div><!-- end listingLocation -->   
+    
+    
+    
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+  
+
+
+      <div class="tinyTools">
+        <h3>Tools</h3>
+        <ul>
+          <li class="l0">
+            
+
+
+  <a href="javascript://RemindMe" class="toggleActivator reminderAction requiresLogin">Remind Me</a>
+  <div class="togglePanel" data-toolsoid="2513787" data-toolsajaxmacro="reminderForm" style="display:none">
+    <div class="loading">Loading&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+</li> <li class="l0">
+
+
+  <a class="toggleActivator saveAction requiresLogin" href="http://posting.bestofneworleans.com/gambit/Profile/MyFavorites?add=2513787">
+    Add to favorites
+  </a>
+  <div class="togglePanel" data-toolsoid="2513787" data-toolsajaxmacro="addObject" style="display:none">
+    <div class="loading">Saving&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+
+
+</li> <li class="l0">
+
+
+  <a class="icalAction" href="http://www.bestofneworleans.com/gambit/Tools/AddToiCal.ics?oid=2513787">Add to iCal</a>
+</li> <li class="l0">
+
+<a class="toggleActivator saveAction listAction requiresLogin" href="javascript://CreateList">Add to Custom List</a>
+<div class="togglePanel" data-toolsoid="2513787" data-toolsajaxmacro="generateList" style="display:none">
+  <div class="loading">Loading&hellip;</div>
+  <div class="ajaxUpdater" style="display:none"></div>
+</div>
+
+          </li>
+        </ul>
+      </div><!-- end tinyTools -->
+    
+  </div><!-- end EventListing -->
+
+
+    
+
+    
+    
+
+    
+    
+
+    
+
+    <div class="EventListing clearfix" id="event2274824">
+    <div class="listing">
+      
+      <h3 class="farmers_markets">
+        <span class="longOnly"><div class="FeaturesIcons">
+<a href="/gambit/EventSearch?feature=Members%20Pick" class="FeaturesIcons_members_pick" title="Members Pick"><span>Members Pick</span></a>
+</div></span>
+        <a href="http://www.bestofneworleans.com/gambit/grow-dat-farm-stand/Event?oid=2274824">
+        
+          Grow Dat Farm Stand
+        
+        </a>
+        
+      </h3>
+
+      
+
+      
+
+      
+         Saturdays, 9 a.m.-12 p.m.<br>
+      
+      
+      
+      
+
+      
+      <span class="eventCategories farmers_markets"><a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2513758" class="farmers_markets" rel="tag">Farmers Markets</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A1222890" class="events" rel="tag">Events</a>, <a href="http://www.bestofneworleans.com/gambit/EventSearch?eventCategory=oid%3A2227838" class="food_and_drink" rel="tag">Food and Drink</a></span>
+
+      
+        <p class="descripTxt">
+           
+          Grow Dat Youth Farm sells its produce.
+
+          <span class="price"></span>
+
+          
+        </p>
+      
+      
+      
+      
+      <div></div>
+      
+    </div><!-- end listing -->
+
+    
+
+    
+      <div class="listingLocation"> 
+        <a href="http://www.bestofneworleans.com/gambit/grow_dat_youth_farm/Location?oid=2156370">Grow Dat Youth Farm</a> 
+        (<a href="http://www.bestofneworleans.com/gambit/Map?oid=2156370">map</a>)<br />
+        New Orleans City Park, 150 Zachary Taylor Drive<br />
+        <span class="locationRegion"><a href="http://www.bestofneworleans.com/gambit/EventSearch?neighborhood=1223331">Mid-City</a></span>
+        
+          <br /><img src="/images/icons/phone.gif" alt="phone" /> (504) 377-8395<br />
+        
+        
+       
+      </div><!-- end listingLocation -->   
+    
+    
+    
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+  
+
+
+      <div class="tinyTools">
+        <h3>Tools</h3>
+        <ul>
+          <li class="l0">
+            
+
+
+  <a href="javascript://RemindMe" class="toggleActivator reminderAction requiresLogin">Remind Me</a>
+  <div class="togglePanel" data-toolsoid="2274824" data-toolsajaxmacro="reminderForm" style="display:none">
+    <div class="loading">Loading&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+</li> <li class="l0">
+
+
+  <a class="toggleActivator saveAction requiresLogin" href="http://posting.bestofneworleans.com/gambit/Profile/MyFavorites?add=2274824">
+    Add to favorites
+  </a>
+  <div class="togglePanel" data-toolsoid="2274824" data-toolsajaxmacro="addObject" style="display:none">
+    <div class="loading">Saving&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+
+
+</li> <li class="l0">
+
+
+  <a class="icalAction" href="http://www.bestofneworleans.com/gambit/Tools/AddToiCal.ics?oid=2274824">Add to iCal</a>
+</li> <li class="l0">
+
+<a class="toggleActivator saveAction listAction requiresLogin" href="javascript://CreateList">Add to Custom List</a>
+<div class="togglePanel" data-toolsoid="2274824" data-toolsajaxmacro="generateList" style="display:none">
+  <div class="loading">Loading&hellip;</div>
+  <div class="ajaxUpdater" style="display:none"></div>
+</div>
+
+          </li>
+        </ul>
+      </div><!-- end tinyTools -->
+    
+  </div><!-- end EventListing -->
+
+
+    
+
+    
+
+      
+
+      <div class="listingsResultCount">
+        Showing 1-15 of 132 total results in this search.
+      </div>
+
+      
+        <div id="PaginationBottom" class="pagination">
+          <strong>1</strong>
+<a href="#" data-page="2" title="page 2 of 9" >2</a>
+<a href="#" data-page="3" title="page 3 of 9" >3</a>
+<a href="#" data-page="4" title="page 4 of 9" >4</a>
+<a href="#" data-page="5" title="page 5 of 9" >5</a>
+<a href="#" data-page="6" title="page 6 of 9" >6</a>
+<a href="#" data-page="7" title="page 7 of 9" >7</a>
+<a href="#" data-page="8" title="page 8 of 9" >8</a>
+<a href="#" data-page="9" title="page 9 of 9" >9</a>
+<a href="#" data-page="2" title="page 2 of 9" class="next" >next &raquo;</a>
+  
+  
+   
+  <script>    
+    jQuery("#PaginationBottom a").click(function(e){
+      e.preventDefault();      
+      var myUrl = "http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922&page="+jQuery(this).attr("data-page");
+      window.location=myUrl;
+    });       
+  </script>
+        </div>
+      
+
+      
+    </div><!-- results_cont -->
+
+    
+      <script type="text/javascript">
+      Foundation.Tools.setup();
+      </script>
+    
+
+    
+</div><!-- searchResults -->
+
+
+      </div><!-- end gridMainColumn -->
+      <br class="clear" />
+      
+    </div><!-- end gridFrame -->
+
+    <!-- ZoneC -->
+    <div id="gridAdSidebar">
+      <div id="AddEventLinkCustom" class="AdSidebar EventSearch ">
+  <a href="http://posting.bestofneworleans.com/gambit/SubmitYourEvent/Page">Submit an Event</a>
+</div>
+<div class="AdSidebar EventSearch Ad" id="Skyscraper"> 
+   <!-- Ent_sky -->
+          <div id="div-gpt-ad-ent_sky" style="">
+            <script type='text/javascript'>
+                googletag.display('div-gpt-ad-ent_sky');
+            </script>
+          </div>
+</div><div class="AdSidebar EventSearch Ad" id="Tile1"> 
+   <!-- Tile1 -->
+          <div id="div-gpt-ad-tile1" style="">
+            <script type='text/javascript'>
+                googletag.display('div-gpt-ad-tile1');
+            </script>
+          </div>
+</div><div class="AdSidebar EventSearch Ad" id="Tile2"> 
+   <!-- Tile2 -->
+          <div id="div-gpt-ad-tile2" style="">
+            <script type='text/javascript'>
+                googletag.display('div-gpt-ad-tile2');
+            </script>
+          </div>
+</div><div class="AdSidebar EventSearch Ad" id="Tile3"> 
+   <!-- Tile3 -->
+          <div id="div-gpt-ad-tile3" style="">
+            <script type='text/javascript'>
+                googletag.display('div-gpt-ad-tile3');
+            </script>
+          </div>
+</div><div class="AdSidebar EventSearch Ad" id="Skyscraper2"> 
+   <!-- Skyscraper2 -->
+          <div id="div-gpt-ad-skyscraper2" style="">
+            <script type='text/javascript'>
+                googletag.display('div-gpt-ad-skyscraper2');
+            </script>
+          </div>
+</div>
+    </div><!-- end gridAdSidebar -->
+
+    <!-- Footer -->
+    <div id="gridFooter">
+      
+
+<div id="FooterCustom" class="GlobalFooter EventSearch ">
+
+  
+  <div class="footerContainer">
+    <h3><a href="/gambit/AboutUs/Page">About Gambit</a></h3>
+
+     
+         
+        <a href="/gambit/IssueArchives?issue=Today">
+          <img src="/binary/93d1/cov.jpg" width="136" height="160" alt="Cover of this issue of Gambit" class="cover_thumb" id="cover" />
+        </a>
+      
+    
+
+    
+        
+        
+        <ul class="leftlist">
+      
+      
+
+      <li><a href="/gambit/RestaurantGuide/Page" target="_self">Restaurant Guide Form</a></li>
+      
+      
+
+      
+    
+      
+
+      <li><a href="/gambit/IssueArchives?issue=Today" target="_self">Current Issue of Gambit</a></li>
+      
+      
+
+      
+    
+      
+
+      <li><a href="http://classifieds.bestofneworleans.com/neworleans/announcements/search" target="_self">Public Notices</a></li>
+      
+      
+
+      
+    
+      
+
+      <li><a href="/gambit/NewsletterSignup/Page" target="_self">E-Newsletter</a></li>
+      
+      
+
+      
+    
+      
+
+      <li><a href="/gambit/HomeDelivery/Page" target="_self">Home Delivery</a></li>
+      
+      
+
+      
+    
+      
+
+      <li><a href="/gambit/AdvertiseInGambit/Page" target="_self">Ad Info & Rates</a></li>
+      
+      
+        </ul>
+        <ul class="rightlist">
+        
+        
+      
+
+      
+    
+      
+
+      <li><a href="/gambit/vmgadvertising/Page" target="_self">National Advertising</a></li>
+      
+      
+
+      
+    
+      
+
+      <li><a href="/gambit/AboutUs/Page" target="_self">About Us</a></li>
+      
+      
+
+      
+    
+      
+
+      <li><a href="/gambit/SubmitYourEvent/Page" target="_self">Submit an event</a></li>
+      
+      
+
+      
+    
+      
+
+      <li><a href="/gambit/CareerOpportunities/Page" target="_self">Careers at Gambit</a></li>
+      
+      
+
+      
+    
+      
+
+      <li><a href="/gambit/ArticleArchives" target="_self">Archives</a></li>
+      
+      
+
+      
+    
+      
+
+      <li><a href="/gambit/ContactUs/Page" target="_self">Contact</a></li>
+      
+      
+
+      
+    
+      
+
+      <li><a href="/gambit/syndication" target="_self">RSS</a></li>
+      
+      
+
+      
+    
+        </ul>
+      
+  </div>
+
+    
+  <div class="footerContainer last">
+    
+      
+         <h3>
+          <a href="/gambit/EventSearch">Coming to New Orleans?</a>
+         </h3>
+            
+           <a href="/gambit/EventSearch?eventSection=1222875" target="_self">
+            <img src="http://media1.fdncms.com/gambit/imager/art/u/cover/1945981/screen_shot_2012-01-25_at_4.56.00_pm.png" alt="Art" />
+          </a>
+         
+        <ul>
+      
+        <li><a href="/gambit/EventSearch?eventSection=1222875" target="_self">Art</a></li>
+      
+    
+      
+        <li><a href="/gambit/EventSearch?eventSection=1222876" target="_self">Events</a></li>
+      
+    
+      
+        <li><a href="/gambit/EventSearch?eventSection=1222879" target="_self">Film</a></li>
+      
+    
+      
+        <li><a href="/gambit/EventSearch?eventSection=1228600" target="_self">Music</a></li>
+      
+    
+      
+        <li><a href="/gambit/LocationSearch?locationSection=1222854" target="_self">Restaurants</a></li>
+      
+    
+        </ul>
+      
+  </div>
+
+</div><div class="GlobalFooter EventSearch Ad" id="Leaderboardfooter"> 
+   <!-- Leaderboard2-footer -->
+          <div id="div-gpt-ad-leaderboard2_footer" style="">
+            <script type='text/javascript'>
+                googletag.display('div-gpt-ad-leaderboard2_footer');
+            </script>
+          </div>
+</div><!-- custom footer placed above -->
+
+
+    <div id="FooterNavigation" class="GlobalFooter EventSearch ">
+      <ul>
+  
+  
+  <li class="">
+    <a href="http://www.bestofneworleans.com/gambit/PrivacyStatement/Page" target="_self">
+      
+        Privacy Statement
+      
+    </a>
+    
+    
+      <span>|</span>
+    
+  </li> 
+  
+
+  
+  <li class="">
+    <a href="http://www.bestofneworleans.com/gambit/Terms_Of_Use/Page" target="_self">
+      
+        Terms of Use
+      
+    </a>
+    
+    
+  </li> 
+  
+
+      </ul>
+    </div>
+  
+
+
+
+<div id="footerCopyright">
+  <p>
+   &copy; 2015
+   Gambit <br>
+   Powered by <a href="http://foundation.gyrobase.com/" target="_blank">Foundation</a>
+  </p>
+</div><!-- Begin comScore Tag -->
+<script>
+  document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+
+<script>
+  COMSCORE.beacon({
+   c1:2,
+   c2:6035631,
+   c3:"",
+   c4:"",
+   c5:"",
+   c6:"",
+   c15:""
+  });
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035631&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+ _qoptions={
+   qacct:"p-a4LDpi_DEopn-"
+ };
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+ <img src="http://pixel.quantserve.com/pixel/p-a4LDpi_DEopn-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast" />
+</noscript>
+<!-- End Quantcast tag -->
+
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-7apeS9pNVYMQo"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-7apeS9pNVYMQo.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- cXense script begin -->
+<div id="cX-root" style="display:none"></div>
+<script type="text/javascript">
+var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+cX.callQueue.push(['setAccountId', '9222291968715708015']);
+cX.callQueue.push(['setSiteId', '9222304501162646029']);
+cX.callQueue.push(['sendPageViewEvent']);
+</script>
+<script type="text/javascript">
+(function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async';
+scriptEl.src = ('https:' == document.location.protocol) ? 'https://scdn.cxense.com/cx.js' : 'http://cdn.cxense.com/cx.js';
+var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.insertBefore(scriptEl, targetEl); } catch (e) {};} ());
+</script>
+<!-- cXense script end -->
+    </div><!-- end gridFooter -->
+
+  </div><!-- end gridMain -->
+</div><!-- end gridClamp -->
+
+<!-- Closer -->
+<div id="gridCloser">
+  
+</div><!-- end gridCloser -->
+
+
+    </body>
+</html>  
+  
+
