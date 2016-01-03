@@ -15,6 +15,3 @@ class GambitScraperItem(scrapy.Item):
     location = scrapy.Field()
     description = scrapy.Field()
 
-    		 
-
-
