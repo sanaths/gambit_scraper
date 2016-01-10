@@ -7,6 +7,11 @@ from email.mime.text import MIMEText
 import mimetypes
 import os
 
+from pprint import pprint
+
+from pathlib import Path
+
+
 
 import httplib2
 from apiclient import discovery, errors
@@ -15,7 +20,19 @@ from oauth2client import client
 from oauth2client import tools
 
 
+
+
 class Emailer:
+
+    # try:
+    #     import argparse
+    #     flags = argparse.ArgumentParser(parents=[tools.argparser]).parse_args()
+    # except ImportError:
+    flags = None
+
+    SCOPES = 'https://www.googleapis.com/auth/gmail'
+    CLIENT_SECRET_FILE = 'credentials.json'
+    APPLICATION_NAME = 'Gambit Web Scraper'
 
     def __init__(self):
         self.service = self.main()
@@ -28,12 +45,28 @@ class Emailer:
 
     @classmethod
     def get_credentials(cls):
-        parent_directory = os.path.dirname(os.path.abspath(__file__))
-        credentials_directory_path  = parent_directory + 'credentials.json'
 
-        store = oauth2client.file.Storage(credentials_directory_path)
+        path_to_parent_directory = Path(__file__).parents[1]
+
+        print(path_to_parent_directory)
+
+        credential_path = str(path_to_parent_directory) + '/credentials.json'
+
+        store = oauth2client.file.Storage(credential_path)
+
+        pprint(store)
 
         credentials = store.get()
+
+        if not credentials or credentials.invalid:
+            flow = client.flow_from_clientsecrets(cls.CLIENT_SECRET_FILE, cls.SCOPES)
+            flow.user_agent = cls.APPLICATION_NAME
+            if cls.flags:
+                credentials = tools.run_flow(flow, store, cls.flags)
+            else: # Needed only for compatibility with Python 2.6
+                credentials = tools.run(flow, store)
+            print('Storing credentials to ' + credential_path)
+
         return credentials
 
     @classmethod
