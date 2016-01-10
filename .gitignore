@@ -17,3 +17,5 @@ var/
 *.egg
 venv
 *.pyc
+credentials.json
+../.idea/
