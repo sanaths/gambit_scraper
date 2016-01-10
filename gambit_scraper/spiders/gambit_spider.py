@@ -1,5 +1,6 @@
 from meta import *
 import scrapy
+from emailer import *
 
 
 class GambitSpider(scrapy.Spider):
@@ -26,13 +27,21 @@ class GambitSpider(scrapy.Spider):
 
             cleaned_item = self.clean_up_item_lists(basic_item)
             print(cleaned_item)
-            cleaned_item_second_pass = self.second_pass_at_cleanup(cleaned_item)
-            print(cleaned_item_second_pass)
-            final_item = self.remove_empty_list_values_from_item(cleaned_item_second_pass)
+
+            final_item = self.remove_empty_list_values_from_item(cleaned_item)
 
             basic_list.append(final_item)
 
         print(basic_list)
+
+        emailer = Emailer()
+        message = emailer.create_message(sender="sanath001@gmail.com",
+                                         to="vfanola@gmail.com",
+                                         subject="This Week in NOLA:",
+                                         message_text=basic_list)
+
+        draft = emailer.create_draft("me", message)
+
 
         filename = response.url.split("/")[-2]
         with open(filename, 'wb') as f:
@@ -64,9 +73,6 @@ class GambitSpider(scrapy.Spider):
                           title=title)
 
         return item
-
-
-
 
 
 
