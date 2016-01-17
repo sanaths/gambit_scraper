@@ -1,8 +1,11 @@
 from meta import *
 import scrapy
 from emailer import *
+from scrapy import Request
 from scrapy.spiders import CrawlSpider, Rule
-from scrapy.linkextractors.sgml import SgmlLinkExtractor
+from scrapy.linkextractors import LinkExtractor, _re_type
+from scrapy.selector import HtmlXPathSelector
+
 
 
 class GambitSpider(CrawlSpider):
@@ -13,12 +16,13 @@ class GambitSpider(CrawlSpider):
         "http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&narrowByDate=Next%207%20Days&neighborhoodGroup=1287922",
     ]
 
-    rules = (
-            Rule(
-                    SgmlLinkExtractor(allow=(), restrict_xpaths=('//a[@class="next"]',)),
-                    callback="parse_items", follow=True
-                ),
-            )
+    def parse(self, response):
+        url= "http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922&page="
+        page_number = int(response.xpath('.//a[@class="next"]/@title').extract()[0][-1])
+        url_list = [url + str(number) for number in range(1, page_number+1)]
+
+        for url in url_list:
+            yield Request(url, callback=self.parse_items)
 
     def parse_items(self, response):
             basic_list = []
