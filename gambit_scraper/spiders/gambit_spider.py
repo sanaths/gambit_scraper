@@ -3,6 +3,7 @@ import scrapy
 from emailer import *
 from scrapy import Request
 from scrapy.spiders import CrawlSpider, Rule
+from datetime import datetime
 from scrapy.linkextractors import LinkExtractor, _re_type
 from scrapy.selector import HtmlXPathSelector
 
@@ -45,6 +46,14 @@ class GambitSpider(CrawlSpider):
                 basic_list.append(final_item)
 
             print(basic_list)
+
+            with open(datetime.strftime(datetime.now(), '%Y-%m-%d') + 'gambit.txt','a') as f:
+                for item in basic_list:
+                    f.write(
+                            item['title'].encode('utf-8') + " " + item['link'].encode('utf-8') + " @ " + item['location'].encode('utf-8') + ", " +\
+                            item['time'].encode('utf-8') + "\n" + item['description'].encode('utf-8') + "\n\n"
+                            )
+
 
             # emailer = Emailer()
             # message = emailer.create_message(sender="sanath001@gmail.com",
