@@ -28,6 +28,7 @@ class GambitSpider(CrawlSpider):
     def parse_items(self, response):
             basic_list = []
 
+            # put everything into a basic list
             for event_listing in response.css('div.EventListing'):
 
                 basic_item = GambitScraperItem(
@@ -45,15 +46,10 @@ class GambitSpider(CrawlSpider):
 
                 basic_list.append(final_item)
 
-            print(basic_list)
+            #break up list into multidimensional array with items ordered by date
+            org_list = self.get_list_organized_by_day_of_week(basic_list)               
 
-            with open(datetime.strftime(datetime.now(), '%Y-%m-%d') + 'gambit.txt','a') as f:
-                for item in basic_list:
-                    f.write(
-                            item['title'].encode('utf-8') + " " + item['link'].encode('utf-8') + " @ " + item['location'].encode('utf-8') + ", " +\
-                            item['time'].encode('utf-8') + "\n" + item['description'].encode('utf-8') + "\n\n"
-                            )
-
+            self.write_list_to_todays_file(basic_list)
 
             # emailer = Emailer()
             # message = emailer.create_message(sender="sanath001@gmail.com",
@@ -92,6 +88,27 @@ class GambitSpider(CrawlSpider):
 
         return item
 
+    @classmethod
+    def write_list_to_todays_file(cls, basic_list):
+        with open(datetime.strftime(datetime.now(), '%Y-%m-%d') + 'gambit.txt','a') as f:
+            for item in basic_list:
+                f.write(
+                    "<p>" +\
+                        "<a href='" + 
+                            item['link'].encode('utf-8') + "'>" +\
+                            item['title'].encode('utf-8') +\
+                        "</a>" +\
+                        " @ " + item['location'].encode('utf-8') + ", " +\
+                        item['time'].encode('utf-8') +\
+                    "</p>" +\
+                    "<p>" +\
+                         "\n" + item['description'].encode('utf-8') + "\n\n" +\
+                    "</p>" 
+                )
+
+    @classmethod
+    def get_list_organized_by_day_of_week(cls, list):
+        pass
 
 
 
