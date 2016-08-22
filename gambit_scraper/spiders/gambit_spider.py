@@ -8,7 +8,6 @@ from scrapy.linkextractors import LinkExtractor, _re_type
 from scrapy.selector import HtmlXPathSelector
 
 
-
 class GambitSpider(CrawlSpider):
 
     name = "event_spider"
@@ -49,7 +48,9 @@ class GambitSpider(CrawlSpider):
             #break up list into multidimensional array with items ordered by date
             org_list = self.get_list_organized_by_day_of_week(basic_list)               
 
-            self.write_list_to_todays_file(basic_list)
+            for key, value in org_list.iteritems():
+                self.write_day_of_week(key)
+                self.write_list_to_todays_file(value)
 
             # emailer = Emailer()
             # message = emailer.create_message(sender="sanath001@gmail.com",
@@ -107,9 +108,33 @@ class GambitSpider(CrawlSpider):
                 )
 
     @classmethod
-    def get_list_organized_by_day_of_week(cls, list):
-        pass
+    def write_day_of_week(cls, day_of_week):
+        with open(datetime.strftime(datetime.now(), '%Y-%m-%d') + 'gambit.txt','a') as f:
+                f.write(
+                    "<p>" +\
+                    "<b>" +\
+                    day_of_week +\
+                    "</b>" +\
+                    "</p>"
+                )
 
+    @classmethod
+    def get_list_organized_by_day_of_week(cls, event_list):
+
+        events_by_day = { 
+            'Sun.': filter(lambda item : 'Sun.' in item['time'], event_list),
+            'Mon.': filter(lambda item : 'Mon.' in item['time'], event_list),
+            'Tue.': filter(lambda item : 'Tue.' in item['time'], event_list),
+            'Wed.': filter(lambda item : 'Wed.' in item['time'], event_list),
+            'Thu.': filter(lambda item : 'Thu.' in item['time'], event_list),
+            'Fri.': filter(lambda item : 'Fri.' in item['time'], event_list),
+            'Sat.': filter(lambda item : 'Sat.' in item['time'], event_list),
+            'Unk.': filter(lambda item : 
+                not any(day in item['time'] for day in ['Sun.','Mon.','Tue.','Wed.','Thu.','Fri.','Sat.']),
+                event_list
+            )
+        }
+        return events_by_day
 
 
 
