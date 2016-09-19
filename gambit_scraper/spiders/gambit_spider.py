@@ -10,6 +10,17 @@ from scrapy.selector import HtmlXPathSelector
 
 class GambitSpider(CrawlSpider):
 
+    master_event_list = { 
+        'Sun.': [],
+        'Mon.': [],
+        'Tue.': [],
+        'Wed.': [],
+        'Thu.': [],
+        'Fri.': [],
+        'Sat.': [],
+        'Unk.': []
+    }
+
     name = "event_spider"
     allowed_domains = ["bestofneworleans.com"]
     start_urls = [
@@ -23,6 +34,12 @@ class GambitSpider(CrawlSpider):
 
         for url in url_list:
             yield Request(url, callback=self.parse_items)
+
+        for key, value in self.master_event_list.iteritems():
+            self.write_day_of_week(key)
+            self.write_list_to_todays_file(value)
+
+
 
     def parse_items(self, response):
             basic_list = []
@@ -48,9 +65,8 @@ class GambitSpider(CrawlSpider):
             #break up list into multidimensional array with items ordered by date
             org_list = self.get_list_organized_by_day_of_week(basic_list)               
 
-            for key, value in org_list.iteritems():
-                self.write_day_of_week(key)
-                self.write_list_to_todays_file(value)
+            #merge list for this page into master list
+            self.merge_to_master_list(org_list)
 
             # emailer = Emailer()
             # message = emailer.create_message(sender="sanath001@gmail.com",
@@ -135,6 +151,11 @@ class GambitSpider(CrawlSpider):
             )
         }
         return events_by_day
+
+    def merge_to_master_list(self, dol1):
+        keys = set(dol1).union(self.master_event_list)
+        no = []
+        return dict((k, dol1.get(k, no) + self.master_event_list.get(k, no)) for k in keys)
 
 
 
