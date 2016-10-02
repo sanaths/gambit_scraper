@@ -5,40 +5,42 @@ from scrapy import Request
 from scrapy.spiders import CrawlSpider, Rule
 from datetime import datetime
 from scrapy.linkextractors import LinkExtractor, _re_type
+from scrapy.linkextractors.lxmlhtml import LxmlLinkExtractor
 from scrapy.selector import HtmlXPathSelector
 
 
 class GambitSpider(CrawlSpider):
-
-    master_event_list = { 
-        'Sun.': [],
-        'Mon.': [],
-        'Tue.': [],
-        'Wed.': [],
-        'Thu.': [],
-        'Fri.': [],
-        'Sat.': [],
-        'Unk.': []
-    }
-
     name = "event_spider"
     allowed_domains = ["bestofneworleans.com"]
+    
     start_urls = [
         "http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&narrowByDate=Next%207%20Days&neighborhoodGroup=1287922",
     ]
+    rules = (
+            Rule(
+                LxmlLinkExtractor(
+                    allow=(),
+                    restrict_xpaths=('.//a[@class="next"]/@title',),
+                    process_value="process_value"
+                ), 
+                callback="parse_items", 
+                follow= True,
+            ),
+    )
 
-    def parse(self, response):
-        url= "http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922&page="
-        page_number = int(response.xpath('.//a[@class="next"]/@title').extract()[0][-1])
-        url_list = [url + str(number) for number in range(1, page_number+1)]
+    def process_value(value):   
+        final_url= "http://www.bestofneworleans.com/gambit/EventSearch?eventSection=1222876&amp;narrowByDate=Next%207%20Days&amp;neighborhoodGroup=1287922&page="
+        page_number = int(value[0][-1])
+        pprint('THIS IS HAPPENING ' + str(page_number))
+        
+    # def parse(self, response):
+        # for new_list in self.parse2(response):
+        #     pprint(new_list)
+        #     yield new_list
 
-        for url in url_list:
-            yield Request(url, callback=self.parse_items)
-
-        for key, value in self.master_event_list.iteritems():
-            self.write_day_of_week(key)
-            self.write_list_to_todays_file(value)
-
+        # for key, value in self.master_event_list.iteritems():
+        #     self.write_day_of_week(key)
+        #     self.write_list_to_todays_file(value)
 
 
     def parse_items(self, response):
@@ -63,10 +65,10 @@ class GambitSpider(CrawlSpider):
                 basic_list.append(final_item)
 
             #break up list into multidimensional array with items ordered by date
-            org_list = self.get_list_organized_by_day_of_week(basic_list)               
-
+            return self.get_list_organized_by_day_of_week(basic_list)               
+            
             #merge list for this page into master list
-            self.merge_to_master_list(org_list)
+            # return self.merge_to_master_list(org_list)
 
             # emailer = Emailer()
             # message = emailer.create_message(sender="sanath001@gmail.com",
@@ -75,8 +77,6 @@ class GambitSpider(CrawlSpider):
             #                                  message_text=basic_list)
             #
             # draft = emailer.create_draft("me", message)
-
-            return basic_list
 
     @classmethod
     def clean_up_item_lists(cls, item):
@@ -155,7 +155,7 @@ class GambitSpider(CrawlSpider):
     def merge_to_master_list(self, dol1):
         keys = set(dol1).union(self.master_event_list)
         no = []
-        return dict((k, dol1.get(k, no) + self.master_event_list.get(k, no)) for k in keys)
+        self.master_event_list = dict((k, dol1.get(k, no) + self.master_event_list.get(k, no)) for k in keys)
 
 
 
